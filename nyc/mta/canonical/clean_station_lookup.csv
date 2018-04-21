@@ -1,0 +1,733 @@
+station_name,line,borough,segment,unique_key,station_key,station_key_split,line_designators_str
+Wall St,2,M,Broadway/7 Av (CBD),2Wall StBroadway/7 Av (CBD),Wall_St|2_3,2|Wall_St|2_3,2_3
+Wall St,3,M,Broadway/7 Av (CBD),3Wall StBroadway/7 Av (CBD),Wall_St|2_3,3|Wall_St|2_3,2_3
+Rector St,1,M,Broadway/7 Av (CBD),1Rector StBroadway/7 Av (CBD),Rector_St|1,1|Rector_St|1,1
+Cortlandt St,1,M,Broadway/7 Av (CBD),1Cortlandt StBroadway/7 Av (CBD),Cortlandt_St|1,1|Cortlandt_St|1,1
+Chambers St,1,M,Broadway/7 Av (CBD),1Chambers StBroadway/7 Av (CBD),Chambers_St|1_2_3,1|Chambers_St|1_2_3,1_2_3
+Chambers St,2,M,Broadway/7 Av (CBD),2Chambers StBroadway/7 Av (CBD),Chambers_St|1_2_3,2|Chambers_St|1_2_3,1_2_3
+Chambers St,3,M,Broadway/7 Av (CBD),3Chambers StBroadway/7 Av (CBD),Chambers_St|1_2_3,3|Chambers_St|1_2_3,1_2_3
+Franklin St,1,M,Broadway/7 Av (CBD),1Franklin StBroadway/7 Av (CBD),Franklin_St|1,1|Franklin_St|1,1
+Canal St,1,M,Broadway/7 Av (CBD),1Canal StBroadway/7 Av (CBD),Canal_St|1,1|Canal_St|1,1
+Houston St,1,M,Broadway/7 Av (CBD),1Houston StBroadway/7 Av (CBD),Houston_St|1,1|Houston_St|1,1
+Christopher St-Sheridan Sq,1,M,Broadway/7 Av (CBD),1Christopher St-Sheridan SqBroadway/7 Av (CBD),Christopher_St_Sheridan_Sq|1,1|Christopher_St_Sheridan_Sq|1,1
+18 St,1,M,Broadway/7 Av (CBD),118 StBroadway/7 Av (CBD),18_St|1,1|18_St|1,1
+23 St,1,M,Broadway/7 Av (CBD),123 StBroadway/7 Av (CBD),23_St|1,1|23_St|1,1
+28 St,1,M,Broadway/7 Av (CBD),128 StBroadway/7 Av (CBD),28_St|1,1|28_St|1,1
+34 St-Penn Station,1,M,Broadway/7 Av (CBD),134 St-Penn StationBroadway/7 Av (CBD),34_St_Penn_Station|1_2_3,1|34_St_Penn_Station|1_2_3,1_2_3
+34 St-Penn Station,2,M,Broadway/7 Av (CBD),234 St-Penn StationBroadway/7 Av (CBD),34_St_Penn_Station|1_2_3,2|34_St_Penn_Station|1_2_3,1_2_3
+34 St-Penn Station,3,M,Broadway/7 Av (CBD),334 St-Penn StationBroadway/7 Av (CBD),34_St_Penn_Station|1_2_3,3|34_St_Penn_Station|1_2_3,1_2_3
+50 St,1,M,Broadway/7 Av (CBD),150 StBroadway/7 Av (CBD),50_St|1,1|50_St|1,1
+66 St-Lincoln Center,1,M,Broadway/ 7 Av  (Non-CBD),166 St-Lincoln CenterBroadway/ 7 Av  (Non-CBD),66_St_Lincoln_Center|1,1|66_St_Lincoln_Center|1,1
+72 St,1,M,Broadway/ 7 Av  (Non-CBD),172 StBroadway/ 7 Av  (Non-CBD),72_St|1_2_3,1|72_St|1_2_3,1_2_3
+72 St,2,M,Broadway/ 7 Av  (Non-CBD),272 StBroadway/ 7 Av  (Non-CBD),72_St|1_2_3,2|72_St|1_2_3,1_2_3
+72 St,3,M,Broadway/ 7 Av  (Non-CBD),372 StBroadway/ 7 Av  (Non-CBD),72_St|1_2_3,3|72_St|1_2_3,1_2_3
+79 St,1,M,Broadway/ 7 Av  (Non-CBD),179 StBroadway/ 7 Av  (Non-CBD),79_St|1,1|79_St|1,1
+86 St,1,M,Broadway/ 7 Av  (Non-CBD),186 StBroadway/ 7 Av  (Non-CBD),86_St|1,1|86_St|1,1
+96 St,1,M,Broadway/ 7 Av  (Non-CBD),196 StBroadway/ 7 Av  (Non-CBD),96_St|1_2_3,1|96_St|1_2_3,1_2_3
+96 St,2,M,Broadway/ 7 Av  (Non-CBD),296 StBroadway/ 7 Av  (Non-CBD),96_St|1_2_3,2|96_St|1_2_3,1_2_3
+96 St,3,M,Broadway/ 7 Av  (Non-CBD),396 StBroadway/ 7 Av  (Non-CBD),96_St|1_2_3,3|96_St|1_2_3,1_2_3
+103 St,1,M,Upper Broadway,1103 StUpper Broadway,103_St|1,1|103_St|1,1
+Cathedral Pkwy-110 St,1,M,Upper Broadway,1Cathedral Pkwy-110 StUpper Broadway,Cathedral_Pkwy_110_St|1,1|Cathedral_Pkwy_110_St|1,1
+116 St-Columbia University,1,M,Upper Broadway,1116 St-Columbia UniversityUpper Broadway,116_St_Columbia_University|1,1|116_St_Columbia_University|1,1
+125 St,1,M,Upper Broadway,1125 StUpper Broadway,125_St|1,1|125_St|1,1
+137 St-City College,1,M,Upper Broadway,1137 St-City CollegeUpper Broadway,137_St_City_College|1,1|137_St_City_College|1,1
+145 St,1,M,Upper Broadway,1145 StUpper Broadway,145_St|1,1|145_St|1,1
+157 St,1,M,Upper Broadway,1157 StUpper Broadway,157_St|1,1|157_St|1,1
+181 St,1,M,Upper Broadway,1181 StUpper Broadway,181_St|1,1|181_St|1,1
+191 St,1,M,Upper Broadway,1191 StUpper Broadway,191_St|1,1|191_St|1,1
+Dyckman St,1,M,Upper Broadway,1Dyckman StUpper Broadway,Dyckman_St|1,1|Dyckman_St|1,1
+207 St,1,M,Upper Broadway,1207 StUpper Broadway,207_St|1,1|207_St|1,1
+215 St,1,M,Upper Broadway,1215 StUpper Broadway,215_St|1,1|215_St|1,1
+Marble Hill-225 St,1,M,Upper Broadway,1Marble Hill-225 StUpper Broadway,Marble_Hill_225_St|1,1|Marble_Hill_225_St|1,1
+231 St,1,Bx,Upper Broadway,1231 StUpper Broadway,231_St|1,1|231_St|1,1
+238 St,1,Bx,Upper Broadway,1238 StUpper Broadway,238_St|1,1|238_St|1,1
+Van Cortlandt Park-242 St,1,Bx,Upper Broadway,1Van Cortlandt Park-242 StUpper Broadway,Van_Cortlandt_Park_242_St|1,1|Van_Cortlandt_Park_242_St|1,1
+Central Park North-110 St,2,M,Lenox Av,2Central Park North-110 StLenox Av,Central_Park_North_110_St|2_3,2|Central_Park_North_110_St|2_3,2_3
+Central Park North-110 St,3,M,Lenox Av,3Central Park North-110 StLenox Av,Central_Park_North_110_St|2_3,3|Central_Park_North_110_St|2_3,2_3
+116 St,2,M,Lenox Av,2116 StLenox Av,116_St|2_3,2|116_St|2_3,2_3
+116 St,3,M,Lenox Av,3116 StLenox Av,116_St|2_3,3|116_St|2_3,2_3
+125 St,2,M,Lenox Av,2125 StLenox Av,125_St|2_3,2|125_St|2_3,2_3
+125 St,3,M,Lenox Av,3125 StLenox Av,125_St|2_3,3|125_St|2_3,2_3
+135 St,2,M,Lenox Av,2135 StLenox Av,135_St|2_3,2|135_St|2_3,2_3
+135 St,3,M,Lenox Av,3135 StLenox Av,135_St|2_3,3|135_St|2_3,2_3
+145 St,3,M,Lenox Av,3145 StLenox Av,145_St|3,3|145_St|3,3
+Harlem-148 St,3,M,Lenox Av,3Harlem-148 StLenox Av,Harlem_148_St|3,3|Harlem_148_St|3,3
+Bowling Green,4,M,Lexington Av (CBD),4Bowling GreenLexington Av (CBD),Bowling_Green|4_5,4|Bowling_Green|4_5,4_5
+Bowling Green,5,M,Lexington Av (CBD),5Bowling GreenLexington Av (CBD),Bowling_Green|4_5,5|Bowling_Green|4_5,4_5
+Wall St,4,M,Lexington Av (CBD),4Wall StLexington Av (CBD),Wall_St|4_5,4|Wall_St|4_5,4_5
+Wall St,5,M,Lexington Av (CBD),5Wall StLexington Av (CBD),Wall_St|4_5,5|Wall_St|4_5,4_5
+Spring St,6,M,Lexington Av (CBD),6Spring StLexington Av (CBD),Spring_St|6,6|Spring_St|6,6
+Astor Place,6,M,Lexington Av (CBD),6Astor PlaceLexington Av (CBD),Astor_Place|6,6|Astor_Place|6,6
+23 St,6,M,Lexington Av (CBD),623 StLexington Av (CBD),23_St|6,6|23_St|6,6
+28 St,6,M,Lexington Av (CBD),628 StLexington Av (CBD),28_St|6,6|28_St|6,6
+33 St,6,M,Lexington Av (CBD),633 StLexington Av (CBD),33_St|6,6|33_St|6,6
+68 St-Hunter College,6,M,Lexington Av (Non-CBD),668 St-Hunter CollegeLexington Av (Non-CBD),68_St_Hunter_College|6,6|68_St_Hunter_College|6,6
+77 St,6,M,Lexington Av (Non-CBD),677 StLexington Av (Non-CBD),77_St|6,6|77_St|6,6
+86 St,4,M,Lexington Av (Non-CBD),486 StLexington Av (Non-CBD),86_St|4_5_6,4|86_St|4_5_6,4_5_6
+86 St,5,M,Lexington Av (Non-CBD),586 StLexington Av (Non-CBD),86_St|4_5_6,5|86_St|4_5_6,4_5_6
+86 St,6,M,Lexington Av (Non-CBD),686 StLexington Av (Non-CBD),86_St|4_5_6,6|86_St|4_5_6,4_5_6
+96 St,6,M,Lexington Av (Non-CBD),696 StLexington Av (Non-CBD),96_St|6,6|96_St|6,6
+103 St,6,M,Lexington Av (Non-CBD),6103 StLexington Av (Non-CBD),103_St|6,6|103_St|6,6
+110 St,6,M,Lexington Av (Non-CBD),6110 StLexington Av (Non-CBD),110_St|6,6|110_St|6,6
+116 St,6,M,Lexington Av (Non-CBD),6116 StLexington Av (Non-CBD),116_St|6,6|116_St|6,6
+125 St,4,M,Lexington Av (Non-CBD),4125 StLexington Av (Non-CBD),125_St|4_5_6,4|125_St|4_5_6,4_5_6
+125 St,5,M,Lexington Av (Non-CBD),5125 StLexington Av (Non-CBD),125_St|4_5_6,5|125_St|4_5_6,4_5_6
+125 St,6,M,Lexington Av (Non-CBD),6125 StLexington Av (Non-CBD),125_St|4_5_6,6|125_St|4_5_6,4_5_6
+138 St-Grand Concourse,4,Bx,Jerome Av,4138 St-Grand ConcourseJerome Av,138_St_Grand_Concourse|4_5,4|138_St_Grand_Concourse|4_5,4_5
+138 St-Grand Concourse,5,Bx,Jerome Av,5138 St-Grand ConcourseJerome Av,138_St_Grand_Concourse|4_5,5|138_St_Grand_Concourse|4_5,4_5
+167 St,4,Bx,Jerome Av,4167 StJerome Av,167_St|4,4|167_St|4,4
+170 St,4,Bx,Jerome Av,4170 StJerome Av,170_St|4,4|170_St|4,4
+Mt Eden Av,4,Bx,Jerome Av,4Mt Eden AvJerome Av,Mt_Eden_Av|4,4|Mt_Eden_Av|4,4
+176 St,4,Bx,Jerome Av,4176 StJerome Av,176_St|4,4|176_St|4,4
+Burnside Av,4,Bx,Jerome Av,4Burnside AvJerome Av,Burnside_Av|4,4|Burnside_Av|4,4
+183 St,4,Bx,Jerome Av,4183 StJerome Av,183_St|4,4|183_St|4,4
+Fordham Rd,4,Bx,Jerome Av,4Fordham RdJerome Av,Fordham_Rd|4,4|Fordham_Rd|4,4
+Kingsbridge Rd,4,Bx,Jerome Av,4Kingsbridge RdJerome Av,Kingsbridge_Rd|4,4|Kingsbridge_Rd|4,4
+Bedford Park Blvd-Lehman College,4,Bx,Jerome Av,4Bedford Park Blvd-Lehman CollegeJerome Av,Bedford_Park_Blvd_Lehman_College|4,4|Bedford_Park_Blvd_Lehman_College|4,4
+Mosholu Pkwy,4,Bx,Jerome Av,4Mosholu PkwyJerome Av,Mosholu_Pkwy|4,4|Mosholu_Pkwy|4,4
+Woodlawn,4,Bx,Jerome Av,4WoodlawnJerome Av,Woodlawn|4,4|Woodlawn|4,4
+3 Av-149 St,2,Bx,White Plains Rd,23 Av-149 StWhite Plains Rd,3_Av_149_St|2_5,2|3_Av_149_St|2_5,2_5
+3 Av-149 St,5,Bx,White Plains Rd,53 Av-149 StWhite Plains Rd,3_Av_149_St|2_5,5|3_Av_149_St|2_5,2_5
+Jackson Av,2,Bx,White Plains Rd,2Jackson AvWhite Plains Rd,Jackson_Av|2_5,2|Jackson_Av|2_5,2_5
+Jackson Av,5,Bx,White Plains Rd,5Jackson AvWhite Plains Rd,Jackson_Av|2_5,5|Jackson_Av|2_5,2_5
+Prospect Av,2,Bx,White Plains Rd,2Prospect AvWhite Plains Rd,Prospect_Av|2_5,2|Prospect_Av|2_5,2_5
+Prospect Av,5,Bx,White Plains Rd,5Prospect AvWhite Plains Rd,Prospect_Av|2_5,5|Prospect_Av|2_5,2_5
+Intervale Av,2,Bx,White Plains Rd,2Intervale AvWhite Plains Rd,Intervale_Av|2_5,2|Intervale_Av|2_5,2_5
+Intervale Av,5,Bx,White Plains Rd,5Intervale AvWhite Plains Rd,Intervale_Av|2_5,5|Intervale_Av|2_5,2_5
+Simpson St,2,Bx,White Plains Rd,2Simpson StWhite Plains Rd,Simpson_St|2_5,2|Simpson_St|2_5,2_5
+Simpson St,5,Bx,White Plains Rd,5Simpson StWhite Plains Rd,Simpson_St|2_5,5|Simpson_St|2_5,2_5
+Freeman St,2,Bx,White Plains Rd,2Freeman StWhite Plains Rd,Freeman_St|2_5,2|Freeman_St|2_5,2_5
+Freeman St,5,Bx,White Plains Rd,5Freeman StWhite Plains Rd,Freeman_St|2_5,5|Freeman_St|2_5,2_5
+174 St,2,Bx,White Plains Rd,2174 StWhite Plains Rd,174_St|2_5,2|174_St|2_5,2_5
+174 St,5,Bx,White Plains Rd,5174 StWhite Plains Rd,174_St|2_5,5|174_St|2_5,2_5
+West Farms Sq-East Tremont Av,2,Bx,White Plains Rd,2West Farms Sq-East Tremont AvWhite Plains Rd,West_Farms_Sq_East_Tremont_Av|2_5,2|West_Farms_Sq_East_Tremont_Av|2_5,2_5
+West Farms Sq-East Tremont Av,5,Bx,White Plains Rd,5West Farms Sq-East Tremont AvWhite Plains Rd,West_Farms_Sq_East_Tremont_Av|2_5,5|West_Farms_Sq_East_Tremont_Av|2_5,2_5
+East 180 St,2,Bx,White Plains Rd,2East 180 StWhite Plains Rd,East_180_St|2_5,2|East_180_St|2_5,2_5
+East 180 St,5,Bx,White Plains Rd,5East 180 StWhite Plains Rd,East_180_St|2_5,5|East_180_St|2_5,2_5
+Bronx Park East,2,Bx,White Plains Rd,2Bronx Park EastWhite Plains Rd,Bronx_Park_East|2_5,2|Bronx_Park_East|2_5,2_5
+Bronx Park East,5,Bx,White Plains Rd,5Bronx Park EastWhite Plains Rd,Bronx_Park_East|2_5,5|Bronx_Park_East|2_5,2_5
+Pelham Pkwy,2,Bx,White Plains Rd,2Pelham PkwyWhite Plains Rd,Pelham_Pkwy|2_5,2|Pelham_Pkwy|2_5,2_5
+Pelham Pkwy,5,Bx,White Plains Rd,5Pelham PkwyWhite Plains Rd,Pelham_Pkwy|2_5,5|Pelham_Pkwy|2_5,2_5
+Pelham Pkwy,5,Bx,Dyre Av,5Pelham PkwyDyre Av,Pelham_Pkwy|5,5|Pelham_Pkwy|5,5
+Allerton Av,2,Bx,White Plains Rd,2Allerton AvWhite Plains Rd,Allerton_Av|2_5,2|Allerton_Av|2_5,2_5
+Allerton Av,5,Bx,White Plains Rd,5Allerton AvWhite Plains Rd,Allerton_Av|2_5,5|Allerton_Av|2_5,2_5
+Burke Av,2,Bx,White Plains Rd,2Burke AvWhite Plains Rd,Burke_Av|2_5,2|Burke_Av|2_5,2_5
+Burke Av,5,Bx,White Plains Rd,5Burke AvWhite Plains Rd,Burke_Av|2_5,5|Burke_Av|2_5,2_5
+Gun Hill Rd,2,Bx,White Plains Rd,2Gun Hill RdWhite Plains Rd,Gun_Hill_Rd|2_5,2|Gun_Hill_Rd|2_5,2_5
+Gun Hill Rd,5,Bx,White Plains Rd,5Gun Hill RdWhite Plains Rd,Gun_Hill_Rd|2_5,5|Gun_Hill_Rd|2_5,2_5
+Gun Hill Rd,5,Bx,Dyre Av,5Gun Hill RdDyre Av,Gun_Hill_Rd|5,5|Gun_Hill_Rd|5,5
+219 St,2,Bx,White Plains Rd,2219 StWhite Plains Rd,219_St|2_5,2|219_St|2_5,2_5
+219 St,5,Bx,White Plains Rd,5219 StWhite Plains Rd,219_St|2_5,5|219_St|2_5,2_5
+225 St,2,Bx,White Plains Rd,2225 StWhite Plains Rd,225_St|2_5,2|225_St|2_5,2_5
+225 St,5,Bx,White Plains Rd,5225 StWhite Plains Rd,225_St|2_5,5|225_St|2_5,2_5
+233 St,2,Bx,White Plains Rd,2233 StWhite Plains Rd,233_St|2_5,2|233_St|2_5,2_5
+233 St,5,Bx,White Plains Rd,5233 StWhite Plains Rd,233_St|2_5,5|233_St|2_5,2_5
+Nereid Av,2,Bx,White Plains Rd,2Nereid AvWhite Plains Rd,Nereid_Av|2_5,2|Nereid_Av|2_5,2_5
+Nereid Av,5,Bx,White Plains Rd,5Nereid AvWhite Plains Rd,Nereid_Av|2_5,5|Nereid_Av|2_5,2_5
+Wakefield-241 St,2,Bx,White Plains Rd,2Wakefield-241 StWhite Plains Rd,Wakefield_241_St|2,2|Wakefield_241_St|2,2
+Morris Park,5,Bx,Dyre Av,5Morris ParkDyre Av,Morris_Park|5,5|Morris_Park|5,5
+Baychester Av,5,Bx,Dyre Av,5Baychester AvDyre Av,Baychester_Av|5,5|Baychester_Av|5,5
+Eastchester-Dyre Av,5,Bx,Dyre Av,5Eastchester-Dyre AvDyre Av,Eastchester_Dyre_Av|5,5|Eastchester_Dyre_Av|5,5
+3 Av-138 St,6,Bx,Pelham,63 Av-138 StPelham,3_Av_138_St|6,6|3_Av_138_St|6,6
+Brook Av,6,Bx,Pelham,6Brook AvPelham,Brook_Av|6,6|Brook_Av|6,6
+Cypress Av,6,Bx,Pelham,6Cypress AvPelham,Cypress_Av|6,6|Cypress_Av|6,6
+East 143 St-St Mary's St,6,Bx,Pelham,6East 143 St-St Mary's StPelham,East_143_St_St_Mary's_St|6,6|East_143_St_St_Mary's_St|6,6
+East 149 St,6,Bx,Pelham,6East 149 StPelham,East_149_St|6,6|East_149_St|6,6
+Longwood Av,6,Bx,Pelham,6Longwood AvPelham,Longwood_Av|6,6|Longwood_Av|6,6
+Hunts Point Av,6,Bx,Pelham,6Hunts Point AvPelham,Hunts_Point_Av|6,6|Hunts_Point_Av|6,6
+Whitlock Av,6,Bx,Pelham,6Whitlock AvPelham,Whitlock_Av|6,6|Whitlock_Av|6,6
+Elder Av,6,Bx,Pelham,6Elder AvPelham,Elder_Av|6,6|Elder_Av|6,6
+Morrison Av-Soundview,6,Bx,Pelham,6Morrison Av-SoundviewPelham,Morrison_Av_Soundview|6,6|Morrison_Av_Soundview|6,6
+St Lawrence Av,6,Bx,Pelham,6St Lawrence AvPelham,St_Lawrence_Av|6,6|St_Lawrence_Av|6,6
+Parkchester,6,Bx,Pelham,6ParkchesterPelham,Parkchester|6,6|Parkchester|6,6
+Castle Hill Av,6,Bx,Pelham,6Castle Hill AvPelham,Castle_Hill_Av|6,6|Castle_Hill_Av|6,6
+Zerega Av,6,Bx,Pelham,6Zerega AvPelham,Zerega_Av|6,6|Zerega_Av|6,6
+Westchester Sq-East Tremont Av,6,Bx,Pelham,6Westchester Sq-East Tremont AvPelham,Westchester_Sq_East_Tremont_Av|6,6|Westchester_Sq_East_Tremont_Av|6,6
+Middletown Rd,6,Bx,Pelham,6Middletown RdPelham,Middletown_Rd|6,6|Middletown_Rd|6,6
+Buhre Av,6,Bx,Pelham,6Buhre AvPelham,Buhre_Av|6,6|Buhre_Av|6,6
+Pelham Bay Park,6,Bx,Pelham,6Pelham Bay ParkPelham,Pelham_Bay_Park|6,6|Pelham_Bay_Park|6,6
+34 St-Hudson Yards,7,M,Flushing (Manhattan),734 St-Hudson YardsFlushing (Manhattan),34_St_Hudson_Yards|7,7|34_St_Hudson_Yards|7,7
+Rector St,R,M,Broadway-60 St,RRector StBroadway-60 St,Rector_St|R_W,R|Rector_St|R_W,R
+Cortlandt St,R,M,Broadway-60 St,RCortlandt StBroadway-60 St,Cortlandt_St|R_W,R|Cortlandt_St|R_W,R
+City Hall,R,M,Broadway-60 St,RCity HallBroadway-60 St,City_Hall|R_W,R|City_Hall|R_W,R
+Prince St,N,M,Broadway-60 St,NPrince StBroadway-60 St,Prince_St|W_R,N|Prince_St|W_R,N_R
+Prince St,R,M,Broadway-60 St,RPrince StBroadway-60 St,Prince_St|W_R,R|Prince_St|W_R,N_R
+8 St-New York University,N,M,Broadway-60 St,N8 St-New York UniversityBroadway-60 St,8_St_New_York_University|W_R,N|8_St_New_York_University|W_R,N_R
+8 St-New York University,R,M,Broadway-60 St,R8 St-New York UniversityBroadway-60 St,8_St_New_York_University|W_R,R|8_St_New_York_University|W_R,N_R
+23 St,N,M,Broadway-60 St,N23 StBroadway-60 St,23_St|W_R,N|23_St|W_R,N_R
+23 St,R,M,Broadway-60 St,R23 StBroadway-60 St,23_St|W_R,R|23_St|W_R,N_R
+28 St,N,M,Broadway-60 St,N28 StBroadway-60 St,28_St|W_R,N|28_St|W_R,N_R
+28 St,R,M,Broadway-60 St,R28 StBroadway-60 St,28_St|W_R,R|28_St|W_R,N_R
+49 St,N,M,Broadway-60 St,N49 StBroadway-60 St,49_St|N_W_R,N|49_St|N_W_R,N_Q_R
+49 St,Q,M,Broadway-60 St,Q49 StBroadway-60 St,49_St|N_W_R,Q|49_St|N_W_R,N_Q_R
+49 St,R,M,Broadway-60 St,R49 StBroadway-60 St,49_St|N_W_R,R|49_St|N_W_R,N_Q_R
+57 St-7 Av,N,M,Broadway-60 St,N57 St-7 AvBroadway-60 St,57_St_7_Av|N_Q_R_W,N|57_St_7_Av|N_Q_R_W,N_Q_R
+57 St-7 Av,Q,M,Broadway-60 St,Q57 St-7 AvBroadway-60 St,57_St_7_Av|N_Q_R_W,Q|57_St_7_Av|N_Q_R_W,N_Q_R
+57 St-7 Av,R,M,Broadway-60 St,R57 St-7 AvBroadway-60 St,57_St_7_Av|N_Q_R_W,R|57_St_7_Av|N_Q_R_W,N_Q_R
+5 Av-59 St,N,M,Broadway-60 St,N5 Av-59 StBroadway-60 St,5_Av_59_St|N_W_R,N|5_Av_59_St|N_W_R,N_Q_R
+5 Av-59 St,Q,M,Broadway-60 St,Q5 Av-59 StBroadway-60 St,5_Av_59_St|N_W_R,Q|5_Av_59_St|N_W_R,N_Q_R
+5 Av-59 St,R,M,Broadway-60 St,R5 Av-59 StBroadway-60 St,5_Av_59_St|N_W_R,R|5_Av_59_St|N_W_R,N_Q_R
+Broad St,J,M,Nassau St,JBroad StNassau St,Broad_St|J_Z,J|Broad_St|J_Z,J_Z
+Broad St,Z,M,Nassau St,ZBroad StNassau St,Broad_St|J_Z,Z|Broad_St|J_Z,J_Z
+Bowery,J,M,Nassau St,JBoweryNassau St,Bowery|J_Z,J|Bowery|J_Z,J_Z
+Bowery,Z,M,Nassau St,ZBoweryNassau St,Bowery|J_Z,Z|Bowery|J_Z,J_Z
+3 Av,L,M,14 St,L3 Av14 St,3_Av|L,L|3_Av|L,L
+1 Av,L,M,14 St,L1 Av14 St,1_Av|L,L|1_Av|L,L
+Grand St,B,M,6 Av,BGrand St6 Av,Grand_St|B_D,B|Grand_St|B_D,B_D
+Grand St,D,M,6 Av,DGrand St6 Av,Grand_St|B_D,D|Grand_St|B_D,B_D
+East Broadway,F,M,6 Av,FEast Broadway6 Av,East_Broadway|F,F|East_Broadway|F,F
+2 Av,F,M,6 Av,F2 Av6 Av,2_Av|F,F|2_Av|F,F
+23 St,F,M,6 Av,F23 St6 Av,23_St|F_M,F|23_St|F_M,F_M
+23 St,M,M,6 Av,M23 St6 Av,23_St|F_M,M|23_St|F_M,F_M
+47-50 Sts-Rockefeller Center,B,M,6 Av,B47-50 Sts-Rockefeller Center6 Av,47_50_Sts_Rockefeller_Center|B_D_F_M,B|47_50_Sts_Rockefeller_Center|B_D_F_M,B_D_F_M
+47-50 Sts-Rockefeller Center,D,M,6 Av,D47-50 Sts-Rockefeller Center6 Av,47_50_Sts_Rockefeller_Center|B_D_F_M,D|47_50_Sts_Rockefeller_Center|B_D_F_M,B_D_F_M
+47-50 Sts-Rockefeller Center,F,M,6 Av,F47-50 Sts-Rockefeller Center6 Av,47_50_Sts_Rockefeller_Center|B_D_F_M,F|47_50_Sts_Rockefeller_Center|B_D_F_M,B_D_F_M
+47-50 Sts-Rockefeller Center,M,M,6 Av,M47-50 Sts-Rockefeller Center6 Av,47_50_Sts_Rockefeller_Center|B_D_F_M,M|47_50_Sts_Rockefeller_Center|B_D_F_M,B_D_F_M
+Canal St,A,M,8 Av,ACanal St8 Av,Canal_St|A_C_E,A|Canal_St|A_C_E,A_C_E
+Canal St,C,M,8 Av,CCanal St8 Av,Canal_St|A_C_E,C|Canal_St|A_C_E,A_C_E
+Canal St,E,M,8 Av,ECanal St8 Av,Canal_St|A_C_E,E|Canal_St|A_C_E,A_C_E
+Spring St,C,M,8 Av,CSpring St8 Av,Spring_St|C_E,C|Spring_St|C_E,C_E
+Spring St,E,M,8 Av,ESpring St8 Av,Spring_St|C_E,E|Spring_St|C_E,C_E
+23 St,C,M,8 Av,C23 St8 Av,23_St|C_E,C|23_St|C_E,C_E
+23 St,E,M,8 Av,E23 St8 Av,23_St|C_E,E|23_St|C_E,C_E
+34 St-Penn Station,A,M,8 Av,A34 St-Penn Station8 Av,34_St_Penn_Station|A_C_E,A|34_St_Penn_Station|A_C_E,A_C_E
+34 St-Penn Station,C,M,8 Av,C34 St-Penn Station8 Av,34_St_Penn_Station|A_C_E,C|34_St_Penn_Station|A_C_E,A_C_E
+34 St-Penn Station,E,M,8 Av,E34 St-Penn Station8 Av,34_St_Penn_Station|A_C_E,E|34_St_Penn_Station|A_C_E,A_C_E
+50 St,C,M,8 Av,C50 St8 Av,50_St|C_E,C|50_St|C_E,C_E
+50 St,E,M,8 Av,E50 St8 Av,50_St|C_E,E|50_St|C_E,C_E
+7 Av,B,M,53 St,B7 Av53 St,7_Av|B_D_E,B|7_Av|B_D_E,B_D_E
+7 Av,D,M,53 St,D7 Av53 St,7_Av|B_D_E,D|7_Av|B_D_E,B_D_E
+7 Av,E,M,53 St,E7 Av53 St,7_Av|B_D_E,E|7_Av|B_D_E,B_D_E
+5 Av-53 St,E,M,53 St,E5 Av-53 St53 St,5_Av_53_St|E_M,E|5_Av_53_St|E_M,E_M
+5 Av-53 St,M,M,53 St,M5 Av-53 St53 St,5_Av_53_St|E_M,M|5_Av_53_St|E_M,E_M
+57 St,F,M,63 St,F57 St63 St,57_St|F,F|57_St|F,F
+Lexington Av-63 St,F,M,63 St,FLexington Av-63 St63 St,Lexington_Av_63_St|F,F|Lexington_Av_63_St|F,F
+Roosevelt Island,F,M,63 St,FRoosevelt Island63 St,Roosevelt_Island|F,F|Roosevelt_Island|F,F
+72 St,B,M,8 Av/Central Pk W,B72 St8 Av/Central Pk W,72_St|B_C,B|72_St|B_C,B_C
+72 St,C,M,8 Av/Central Pk W,C72 St8 Av/Central Pk W,72_St|B_C,C|72_St|B_C,B_C
+81 St-Museum of Natural History,B,M,8 Av/Central Pk W,B81 St-Museum of Natural History8 Av/Central Pk W,81_St_Museum_of_Natural_History|B_C,B|81_St_Museum_of_Natural_History|B_C,B_C
+81 St-Museum of Natural History,C,M,8 Av/Central Pk W,C81 St-Museum of Natural History8 Av/Central Pk W,81_St_Museum_of_Natural_History|B_C,C|81_St_Museum_of_Natural_History|B_C,B_C
+86 St,B,M,8 Av/Central Pk W,B86 St8 Av/Central Pk W,86_St|B_C,B|86_St|B_C,B_C
+86 St,C,M,8 Av/Central Pk W,C86 St8 Av/Central Pk W,86_St|B_C,C|86_St|B_C,B_C
+96 St,B,M,8 Av/Central Pk W,B96 St8 Av/Central Pk W,96_St|B_C,B|96_St|B_C,B_C
+96 St,C,M,8 Av/Central Pk W,C96 St8 Av/Central Pk W,96_St|B_C,C|96_St|B_C,B_C
+103 St,B,M,8 Av/Central Pk W,B103 St8 Av/Central Pk W,103_St|B_C,B|103_St|B_C,B_C
+103 St,C,M,8 Av/Central Pk W,C103 St8 Av/Central Pk W,103_St|B_C,C|103_St|B_C,B_C
+Cathedral Pkwy-110 St,B,M,8 Av/Central Pk W,BCathedral Pkwy-110 St8 Av/Central Pk W,Cathedral_Pkwy_110_St|B_C,B|Cathedral_Pkwy_110_St|B_C,B_C
+Cathedral Pkwy-110 St,C,M,8 Av/Central Pk W,CCathedral Pkwy-110 St8 Av/Central Pk W,Cathedral_Pkwy_110_St|B_C,C|Cathedral_Pkwy_110_St|B_C,B_C
+116 St,B,M,8 Av/Central Pk W,B116 St8 Av/Central Pk W,116_St|B_C,B|116_St|B_C,B_C
+116 St,C,M,8 Av/Central Pk W,C116 St8 Av/Central Pk W,116_St|B_C,C|116_St|B_C,B_C
+125 St,A,M,8 Av/Central Pk W,A125 St8 Av/Central Pk W,125_St|A_B_C_D,A|125_St|A_B_C_D,A_B_C_D
+125 St,B,M,8 Av/Central Pk W,B125 St8 Av/Central Pk W,125_St|A_B_C_D,B|125_St|A_B_C_D,A_B_C_D
+125 St,C,M,8 Av/Central Pk W,C125 St8 Av/Central Pk W,125_St|A_B_C_D,C|125_St|A_B_C_D,A_B_C_D
+125 St,D,M,8 Av/Central Pk W,D125 St8 Av/Central Pk W,125_St|A_B_C_D,D|125_St|A_B_C_D,A_B_C_D
+135 St,B,M,8 Av/Central Pk W,B135 St8 Av/Central Pk W,135_St|B_C,B|135_St|B_C,B_C
+135 St,C,M,8 Av/Central Pk W,C135 St8 Av/Central Pk W,135_St|B_C,C|135_St|B_C,B_C
+145 St,A,M,8 Av/Central Pk W,A145 St8 Av/Central Pk W,145_St|A_B_C_D,A|145_St|A_B_C_D,A_B_C_D
+145 St,B,M,8 Av/Central Pk W,B145 St8 Av/Central Pk W,145_St|A_B_C_D,B|145_St|A_B_C_D,A_B_C_D
+145 St,C,M,8 Av/Central Pk W,C145 St8 Av/Central Pk W,145_St|A_B_C_D,C|145_St|A_B_C_D,A_B_C_D
+145 St,D,M,8 Av/Central Pk W,D145 St8 Av/Central Pk W,145_St|A_B_C_D,D|145_St|A_B_C_D,A_B_C_D
+155 St,C,M,Washington Heights,C155 StWashington Heights,155_St|C,C|155_St|C,C
+163 St-Amsterdam Av,C,M,Washington Heights,C163 St-Amsterdam AvWashington Heights,163_St_Amsterdam_Av|C,C|163_St_Amsterdam_Av|C,C
+175 St,A,M,Washington Heights,A175 StWashington Heights,175_St|A,A|175_St|A,A
+181 St,A,M,Washington Heights,A181 StWashington Heights,181_St|A,A|181_St|A,A
+190 St,A,M,Washington Heights,A190 StWashington Heights,190_St|A,A|190_St|A,A
+Dyckman St,A,M,Washington Heights,ADyckman StWashington Heights,Dyckman_St|A,A|Dyckman_St|A,A
+Inwood-207 St,A,M,Washington Heights,AInwood-207 StWashington Heights,Inwood_207_St|A,A|Inwood_207_St|A,A
+155 St,B,M,Concourse,B155 StConcourse,155_St|B_D,B|155_St|B_D,B_D
+155 St,D,M,Concourse,D155 StConcourse,155_St|B_D,D|155_St|B_D,B_D
+167 St,B,Bx,Concourse,B167 StConcourse,167_St|B_D,B|167_St|B_D,B_D
+167 St,D,Bx,Concourse,D167 StConcourse,167_St|B_D,D|167_St|B_D,B_D
+170 St,B,Bx,Concourse,B170 StConcourse,170_St|B_D,B|170_St|B_D,B_D
+170 St,D,Bx,Concourse,D170 StConcourse,170_St|B_D,D|170_St|B_D,B_D
+174-175 Sts,B,Bx,Concourse,B174-175 StsConcourse,174_175_Sts|B_D,B|174_175_Sts|B_D,B_D
+174-175 Sts,D,Bx,Concourse,D174-175 StsConcourse,174_175_Sts|B_D,D|174_175_Sts|B_D,B_D
+Tremont Av,B,Bx,Concourse,BTremont AvConcourse,Tremont_Av|B_D,B|Tremont_Av|B_D,B_D
+Tremont Av,D,Bx,Concourse,DTremont AvConcourse,Tremont_Av|B_D,D|Tremont_Av|B_D,B_D
+182-183 Sts,B,Bx,Concourse,B182-183 StsConcourse,182_183_Sts|B_D,B|182_183_Sts|B_D,B_D
+182-183 Sts,D,Bx,Concourse,D182-183 StsConcourse,182_183_Sts|B_D,D|182_183_Sts|B_D,B_D
+Fordham Rd,B,Bx,Concourse,BFordham RdConcourse,Fordham_Rd|B_D,B|Fordham_Rd|B_D,B_D
+Fordham Rd,D,Bx,Concourse,DFordham RdConcourse,Fordham_Rd|B_D,D|Fordham_Rd|B_D,B_D
+Kingsbridge Rd,B,Bx,Concourse,BKingsbridge RdConcourse,Kingsbridge_Rd|B_D,B|Kingsbridge_Rd|B_D,B_D
+Kingsbridge Rd,D,Bx,Concourse,DKingsbridge RdConcourse,Kingsbridge_Rd|B_D,D|Kingsbridge_Rd|B_D,B_D
+Bedford Park Blvd,B,Bx,Concourse,BBedford Park BlvdConcourse,Bedford_Park_Blvd|B_D,B|Bedford_Park_Blvd|B_D,B_D
+Bedford Park Blvd,D,Bx,Concourse,DBedford Park BlvdConcourse,Bedford_Park_Blvd|B_D,D|Bedford_Park_Blvd|B_D,B_D
+Norwood-205 St,D,Bx,Concourse,DNorwood-205 StConcourse,Norwood_205_St|D,D|Norwood_205_St|D,D
+New Lots Av,3,B,New Lots,3New Lots AvNew Lots,New_Lots_Av|3,3|New_Lots_Av|3,3
+Van Siclen Av,3,B,New Lots,3Van Siclen AvNew Lots,Van_Siclen_Av|3,3|Van_Siclen_Av|3,3
+Pennsylvania Av,3,B,New Lots,3Pennsylvania AvNew Lots,Pennsylvania_Av|3,3|Pennsylvania_Av|3,3
+Junius St,3,B,New Lots,3Junius StNew Lots,Junius_St|3,3|Junius_St|3,3
+Rockaway Av,3,B,New Lots,3Rockaway AvNew Lots,Rockaway_Av|3,3|Rockaway_Av|3,3
+Saratoga Av,3,B,New Lots,3Saratoga AvNew Lots,Saratoga_Av|3,3|Saratoga_Av|3,3
+Sutter Av-Rutland Rd,3,B,New Lots,3Sutter Av-Rutland RdNew Lots,Sutter_Av_Rutland_Rd|3,3|Sutter_Av_Rutland_Rd|3,3
+Crown Heights-Utica Av,3,B,New Lots,3Crown Heights-Utica AvNew Lots,Crown_Heights_Utica_Av|3_4,3|Crown_Heights_Utica_Av|3_4,3_4
+Crown Heights-Utica Av,4,B,New Lots,4Crown Heights-Utica AvNew Lots,Crown_Heights_Utica_Av|3_4,4|Crown_Heights_Utica_Av|3_4,3_4
+Kingston Av,3,B,New Lots,3Kingston AvNew Lots,Kingston_Av|3,3|Kingston_Av|3,3
+Nostrand Av,3,B,New Lots,3Nostrand AvNew Lots,Nostrand_Av|3,3|Nostrand_Av|3,3
+Flatbush Av-Brooklyn College,2,B,Nostrand Av,2Flatbush Av-Brooklyn CollegeNostrand Av,Flatbush_Av_Brooklyn_College|2_5,2|Flatbush_Av_Brooklyn_College|2_5,2_5
+Flatbush Av-Brooklyn College,5,B,Nostrand Av,5Flatbush Av-Brooklyn CollegeNostrand Av,Flatbush_Av_Brooklyn_College|2_5,5|Flatbush_Av_Brooklyn_College|2_5,2_5
+Newkirk Av,2,B,Nostrand Av,2Newkirk AvNostrand Av,Newkirk_Av|2_5,2|Newkirk_Av|2_5,2_5
+Newkirk Av,5,B,Nostrand Av,5Newkirk AvNostrand Av,Newkirk_Av|2_5,5|Newkirk_Av|2_5,2_5
+Beverly Rd,2,B,Nostrand Av,2Beverly RdNostrand Av,Beverly_Rd|2_5,2|Beverly_Rd|2_5,2_5
+Beverly Rd,5,B,Nostrand Av,5Beverly RdNostrand Av,Beverly_Rd|2_5,5|Beverly_Rd|2_5,2_5
+Church Av,2,B,Nostrand Av,2Church AvNostrand Av,Church_Av|2_5,2|Church_Av|2_5,2_5
+Church Av,5,B,Nostrand Av,5Church AvNostrand Av,Church_Av|2_5,5|Church_Av|2_5,2_5
+Winthrop St,2,B,Nostrand Av,2Winthrop StNostrand Av,Winthrop_St|2_5,2|Winthrop_St|2_5,2_5
+Winthrop St,5,B,Nostrand Av,5Winthrop StNostrand Av,Winthrop_St|2_5,5|Winthrop_St|2_5,2_5
+Sterling St,2,B,Nostrand Av,2Sterling StNostrand Av,Sterling_St|2_5,2|Sterling_St|2_5,2_5
+Sterling St,5,B,Nostrand Av,5Sterling StNostrand Av,Sterling_St|2_5,5|Sterling_St|2_5,2_5
+President St,2,B,Nostrand Av,2President StNostrand Av,President_St|2_5,2|President_St|2_5,2_5
+President St,5,B,Nostrand Av,5President StNostrand Av,President_St|2_5,5|President_St|2_5,2_5
+Eastern Pkwy-Brooklyn Museum,2,B,Eastern Pkwy,2Eastern Pkwy-Brooklyn MuseumEastern Pkwy,Eastern_Pkwy_Brooklyn_Museum|2_3,2|Eastern_Pkwy_Brooklyn_Museum|2_3,2_3
+Eastern Pkwy-Brooklyn Museum,3,B,Eastern Pkwy,3Eastern Pkwy-Brooklyn MuseumEastern Pkwy,Eastern_Pkwy_Brooklyn_Museum|2_3,3|Eastern_Pkwy_Brooklyn_Museum|2_3,2_3
+Grand Army Plaza,2,B,Eastern Pkwy,2Grand Army PlazaEastern Pkwy,Grand_Army_Plaza|2_3,2|Grand_Army_Plaza|2_3,2_3
+Grand Army Plaza,3,B,Eastern Pkwy,3Grand Army PlazaEastern Pkwy,Grand_Army_Plaza|2_3,3|Grand_Army_Plaza|2_3,2_3
+Bergen St,2,B,Eastern Pkwy,2Bergen StEastern Pkwy,Bergen_St|2_3,2|Bergen_St|2_3,2_3
+Bergen St,3,B,Eastern Pkwy,3Bergen StEastern Pkwy,Bergen_St|2_3,3|Bergen_St|2_3,2_3
+Nevins St,2,B,Eastern Pkwy,2Nevins StEastern Pkwy,Nevins_St|2_3_4_5,2|Nevins_St|2_3_4_5,2_3_4_5
+Nevins St,3,B,Eastern Pkwy,3Nevins StEastern Pkwy,Nevins_St|2_3_4_5,3|Nevins_St|2_3_4_5,2_3_4_5
+Nevins St,4,B,Eastern Pkwy,4Nevins StEastern Pkwy,Nevins_St|2_3_4_5,4|Nevins_St|2_3_4_5,2_3_4_5
+Nevins St,5,B,Eastern Pkwy,5Nevins StEastern Pkwy,Nevins_St|2_3_4_5,5|Nevins_St|2_3_4_5,2_3_4_5
+Hoyt St,2,B,Eastern Pkwy,2Hoyt StEastern Pkwy,Hoyt_St|2_3,2|Hoyt_St|2_3,2_3
+Hoyt St,3,B,Eastern Pkwy,3Hoyt StEastern Pkwy,Hoyt_St|2_3,3|Hoyt_St|2_3,2_3
+Clark St,2,B,Eastern Pkwy,2Clark StEastern Pkwy,Clark_St|2_3,2|Clark_St|2_3,2_3
+Clark St,3,B,Eastern Pkwy,3Clark StEastern Pkwy,Clark_St|2_3,3|Clark_St|2_3,2_3
+Bay Ridge-95 St,R,B,4 Av,RBay Ridge-95 St4 Av,Bay_Ridge_95_St|R,R|Bay_Ridge_95_St|R,R
+86 St,R,B,4 Av,R86 St4 Av,86_St|R,R|86_St|R,R
+77 St,R,B,4 Av,R77 St4 Av,77_St|R,R|77_St|R,R
+Bay Ridge Av,R,B,4 Av,RBay Ridge Av4 Av,Bay_Ridge_Av|R,R|Bay_Ridge_Av|R,R
+59 St,N,B,4 Av,N59 St4 Av,59_St|N_R,N|59_St|N_R,N_R
+59 St,R,B,4 Av,R59 St4 Av,59_St|N_R,R|59_St|N_R,N_R
+53 St,R,B,4 Av,R53 St4 Av,53_St|R,R|53_St|R,R
+45 St,R,B,4 Av,R45 St4 Av,45_St|R,R|45_St|R,R
+36 St,D,B,4 Av,D36 St4 Av,36_St|D_N_R,D|36_St|D_N_R,D_N_R
+36 St,N,B,4 Av,N36 St4 Av,36_St|D_N_R,N|36_St|D_N_R,D_N_R
+36 St,R,B,4 Av,R36 St4 Av,36_St|D_N_R,R|36_St|D_N_R,D_N_R
+25 St,R,B,4 Av,R25 St4 Av,25_St|R,R|25_St|R,R
+Prospect Av,R,B,4 Av,RProspect Av4 Av,Prospect_Av|R,R|Prospect_Av|R,R
+Union St,R,B,4 Av,RUnion St4 Av,Union_St|R,R|Union_St|R,R
+86 St,N,B,Sea Beach,N86 StSea Beach,86_St|N,N|86_St|N,N
+Avenue U,N,B,Sea Beach,NAvenue USea Beach,Avenue_U|N,N|Avenue_U|N,N
+Kings Hwy,N,B,Sea Beach,NKings HwySea Beach,Kings_Hwy|N,N|Kings_Hwy|N,N
+Bay Pkwy,N,B,Sea Beach,NBay PkwySea Beach,Bay_Pkwy|N,N|Bay_Pkwy|N,N
+20 Av,N,B,Sea Beach,N20 AvSea Beach,20_Av|N,N|20_Av|N,N
+18 Av,N,B,Sea Beach,N18 AvSea Beach,18_Av|N,N|18_Av|N,N
+Fort Hamilton Pkwy,N,B,Sea Beach,NFort Hamilton PkwySea Beach,Fort_Hamilton_Pkwy|N,N|Fort_Hamilton_Pkwy|N,N
+8 Av,N,B,Sea Beach,N8 AvSea Beach,8_Av|N,N|8_Av|N,N
+Bay 50 St,D,B,West End,DBay 50 StWest End,Bay_50_St|D,D|Bay_50_St|D,D
+25 Av,D,B,West End,D25 AvWest End,25_Av|D,D|25_Av|D,D
+Bay Pkwy,D,B,West End,DBay PkwyWest End,Bay_Pkwy|D,D|Bay_Pkwy|D,D
+20 Av,D,B,West End,D20 AvWest End,20_Av|D,D|20_Av|D,D
+18 Av,D,B,West End,D18 AvWest End,18_Av|D,D|18_Av|D,D
+79 St,D,B,West End,D79 StWest End,79_St|D,D|79_St|D,D
+71 St,D,B,West End,D71 StWest End,71_St|D,D|71_St|D,D
+55 St,D,B,West End,D55 StWest End,55_St|D,D|55_St|D,D
+50 St,D,B,West End,D50 StWest End,50_St|D,D|50_St|D,D
+Fort Hamilton Pkwy,D,B,West End,DFort Hamilton PkwyWest End,Fort_Hamilton_Pkwy|D,D|Fort_Hamilton_Pkwy|D,D
+9 Av,D,B,West End,D9 AvWest End,9_Av|D,D|9_Av|D,D
+Ocean Pkwy,Q,B,Brighton,QOcean PkwyBrighton,Ocean_Pkwy|Q,Q|Ocean_Pkwy|Q,Q
+Brighton Beach,B,B,Brighton,BBrighton BeachBrighton,Brighton_Beach|B_Q,B|Brighton_Beach|B_Q,B_Q
+Brighton Beach,Q,B,Brighton,QBrighton BeachBrighton,Brighton_Beach|B_Q,Q|Brighton_Beach|B_Q,B_Q
+Sheepshead Bay,B,B,Brighton,BSheepshead BayBrighton,Sheepshead_Bay|B_Q,B|Sheepshead_Bay|B_Q,B_Q
+Sheepshead Bay,Q,B,Brighton,QSheepshead BayBrighton,Sheepshead_Bay|B_Q,Q|Sheepshead_Bay|B_Q,B_Q
+Neck Rd,Q,B,Brighton,QNeck RdBrighton,Neck_Rd|Q,Q|Neck_Rd|Q,Q
+Avenue U,Q,B,Brighton,QAvenue UBrighton,Avenue_U|Q,Q|Avenue_U|Q,Q
+Kings Hwy,B,B,Brighton,BKings HwyBrighton,Kings_Hwy|B_Q,B|Kings_Hwy|B_Q,B_Q
+Kings Hwy,Q,B,Brighton,QKings HwyBrighton,Kings_Hwy|B_Q,Q|Kings_Hwy|B_Q,B_Q
+Avenue M,Q,B,Brighton,QAvenue MBrighton,Avenue_M|Q,Q|Avenue_M|Q,Q
+Avenue J,Q,B,Brighton,QAvenue JBrighton,Avenue_J|Q,Q|Avenue_J|Q,Q
+Avenue H,Q,B,Brighton,QAvenue HBrighton,Avenue_H|Q,Q|Avenue_H|Q,Q
+Newkirk Plaza,B,B,Brighton,BNewkirk PlazaBrighton,Newkirk_Plaza|B_Q,B|Newkirk_Plaza|B_Q,B_Q
+Newkirk Plaza,Q,B,Brighton,QNewkirk PlazaBrighton,Newkirk_Plaza|B_Q,Q|Newkirk_Plaza|B_Q,B_Q
+Cortelyou Rd,Q,B,Brighton,QCortelyou RdBrighton,Cortelyou_Rd|Q,Q|Cortelyou_Rd|Q,Q
+Beverley Rd,Q,B,Brighton,QBeverley RdBrighton,Beverley_Rd|Q,Q|Beverley_Rd|Q,Q
+Church Av,B,B,Brighton,BChurch AvBrighton,Church_Av|B_Q,B|Church_Av|B_Q,B_Q
+Church Av,Q,B,Brighton,QChurch AvBrighton,Church_Av|B_Q,Q|Church_Av|B_Q,B_Q
+Parkside Av,Q,B,Brighton,QParkside AvBrighton,Parkside_Av|Q,Q|Parkside_Av|Q,Q
+7 Av,B,B,Brighton,B7 AvBrighton,7_Av|B_Q,B|7_Av|B_Q,B_Q
+7 Av,Q,B,Brighton,Q7 AvBrighton,7_Av|B_Q,Q|7_Av|B_Q,B_Q
+Park Pl,S,B,Franklin Av,SPark PlFranklin Av,Park_Pl|S,S|Park_Pl|S,S
+Neptune Av,F,B,Culver,FNeptune AvCulver,Neptune_Av|F,F|Neptune_Av|F,F
+Avenue X,F,B,Culver,FAvenue XCulver,Avenue_X|F,F|Avenue_X|F,F
+Avenue U,F,B,Culver,FAvenue UCulver,Avenue_U|F,F|Avenue_U|F,F
+Kings Hwy,F,B,Culver,FKings HwyCulver,Kings_Hwy|F,F|Kings_Hwy|F,F
+Avenue P,F,B,Culver,FAvenue PCulver,Avenue_P|F,F|Avenue_P|F,F
+Avenue N,F,B,Culver,FAvenue NCulver,Avenue_N|F,F|Avenue_N|F,F
+Bay Pkwy,F,B,Culver,FBay PkwyCulver,Bay_Pkwy|F,F|Bay_Pkwy|F,F
+Avenue I,F,B,Culver,FAvenue ICulver,Avenue_I|F,F|Avenue_I|F,F
+18 Av,F,B,Culver,F18 AvCulver,18_Av|F,F|18_Av|F,F
+Ditmas Av,F,B,Culver,FDitmas AvCulver,Ditmas_Av|F,F|Ditmas_Av|F,F
+Church Av,F,B,Culver,FChurch AvCulver,Church_Av|F_G,F|Church_Av|F_G,F_G
+Church Av,G,B,Culver,GChurch AvCulver,Church_Av|F_G,G|Church_Av|F_G,F_G
+Fort Hamilton Pkwy,F,B,Culver,FFort Hamilton PkwyCulver,Fort_Hamilton_Pkwy|F_G,F|Fort_Hamilton_Pkwy|F_G,F_G
+Fort Hamilton Pkwy,G,B,Culver,GFort Hamilton PkwyCulver,Fort_Hamilton_Pkwy|F_G,G|Fort_Hamilton_Pkwy|F_G,F_G
+15 St-Prospect Park,F,B,Culver,F15 St-Prospect ParkCulver,15_St_Prospect_Park|F_G,F|15_St_Prospect_Park|F_G,F_G
+15 St-Prospect Park,G,B,Culver,G15 St-Prospect ParkCulver,15_St_Prospect_Park|F_G,G|15_St_Prospect_Park|F_G,F_G
+7 Av,F,B,Culver,F7 AvCulver,7_Av|F_G,F|7_Av|F_G,F_G
+7 Av,G,B,Culver,G7 AvCulver,7_Av|F_G,G|7_Av|F_G,F_G
+Smith-9 Sts,F,B,Culver,FSmith-9 StsCulver,Smith_9_Sts|F_G,F|Smith_9_Sts|F_G,F_G
+Smith-9 Sts,G,B,Culver,GSmith-9 StsCulver,Smith_9_Sts|F_G,G|Smith_9_Sts|F_G,F_G
+Carroll St,F,B,Culver,FCarroll StCulver,Carroll_St|F_G,F|Carroll_St|F_G,F_G
+Carroll St,G,B,Culver,GCarroll StCulver,Carroll_St|F_G,G|Carroll_St|F_G,F_G
+Bergen St,F,B,Culver,FBergen StCulver,Bergen_St|F_G,F|Bergen_St|F_G,F_G
+Bergen St,G,B,Culver,GBergen StCulver,Bergen_St|F_G,G|Bergen_St|F_G,F_G
+York St,F,B,Culver,FYork StCulver,York_St|F,F|York_St|F,F
+Rockaway Park-Beach 116 St,A,Q,Rockaway,ARockaway Park-Beach 116 StRockaway,Rockaway_Park_Beach_116_St|A_S,A|Rockaway_Park_Beach_116_St|A_S,A_S
+Rockaway Park-Beach 116 St,S,Q,Rockaway,SRockaway Park-Beach 116 StRockaway,Rockaway_Park_Beach_116_St|A_S,S|Rockaway_Park_Beach_116_St|A_S,A_S
+Beach 105 St,A,Q,Rockaway,ABeach 105 StRockaway,Beach_105_St|A_S,A|Beach_105_St|A_S,A_S
+Beach 105 St,S,Q,Rockaway,SBeach 105 StRockaway,Beach_105_St|A_S,S|Beach_105_St|A_S,A_S
+Beach 98 St,A,Q,Rockaway,ABeach 98 StRockaway,Beach_98_St|A_S,A|Beach_98_St|A_S,A_S
+Beach 98 St,S,Q,Rockaway,SBeach 98 StRockaway,Beach_98_St|A_S,S|Beach_98_St|A_S,A_S
+Beach 90 St,A,Q,Rockaway,ABeach 90 StRockaway,Beach_90_St|A_S,A|Beach_90_St|A_S,A_S
+Beach 90 St,S,Q,Rockaway,SBeach 90 StRockaway,Beach_90_St|A_S,S|Beach_90_St|A_S,A_S
+Far Rockaway-Mott Av,A,Q,Rockaway,AFar Rockaway-Mott AvRockaway,Far_Rockaway_Mott_Av|A,A|Far_Rockaway_Mott_Av|A,A
+Beach 25 St,A,Q,Rockaway,ABeach 25 StRockaway,Beach_25_St|A,A|Beach_25_St|A,A
+Beach 36 St,A,Q,Rockaway,ABeach 36 StRockaway,Beach_36_St|A,A|Beach_36_St|A,A
+Beach 44 St,A,Q,Rockaway,ABeach 44 StRockaway,Beach_44_St|A,A|Beach_44_St|A,A
+Beach 60 St,A,Q,Rockaway,ABeach 60 StRockaway,Beach_60_St|A,A|Beach_60_St|A,A
+Beach 67 St-Arverne By The Sea,A,Q,Rockaway,ABeach 67 St-Arverne By The SeaRockaway,Beach_67_St_Arverne_By_The_Sea|A,A|Beach_67_St_Arverne_By_The_Sea|A,A
+Broad Channel,A,Q,Rockaway,ABroad ChannelRockaway,Broad_Channel|A_S,A|Broad_Channel|A_S,A_S
+Broad Channel,S,Q,Rockaway,SBroad ChannelRockaway,Broad_Channel|A_S,S|Broad_Channel|A_S,A_S
+Howard Beach-JFK Airport,A,Q,Rockaway,AHoward Beach-JFK AirportRockaway,Howard_Beach_JFK_Airport|A,A|Howard_Beach_JFK_Airport|A,A
+Aqueduct-North Conduit Av,A,Q,Rockaway,AAqueduct-North Conduit AvRockaway,Aqueduct_North_Conduit_Av|A,A|Aqueduct_North_Conduit_Av|A,A
+Aqueduct Racetrack,A,Q,Rockaway,AAqueduct RacetrackRockaway,Aqueduct_Racetrack|A,A|Aqueduct_Racetrack|A,A
+Ozone Park-Lefferts Blvd,A,Q,Lefferts Blvd,AOzone Park-Lefferts BlvdLefferts Blvd,Ozone_Park_Lefferts_Blvd|A,A|Ozone_Park_Lefferts_Blvd|A,A
+111 St,A,Q,Lefferts Blvd,A111 StLefferts Blvd,111_St|A,A|111_St|A,A
+104 St,A,Q,Lefferts Blvd,A104 StLefferts Blvd,104_St|A,A|104_St|A,A
+Rockaway Blvd,A,Q,Fulton St,ARockaway BlvdFulton St,Rockaway_Blvd|A,A|Rockaway_Blvd|A,A
+88 St,A,Q,Fulton St,A88 StFulton St,88_St|A,A|88_St|A,A
+80 St,A,Q,Fulton St,A80 StFulton St,80_St|A,A|80_St|A,A
+Grant Av,A,B,Fulton St,AGrant AvFulton St,Grant_Av|A,A|Grant_Av|A,A
+Euclid Av,A,B,Fulton St,AEuclid AvFulton St,Euclid_Av|A_C,A|Euclid_Av|A_C,A_C
+Euclid Av,C,B,Fulton St,CEuclid AvFulton St,Euclid_Av|A_C,C|Euclid_Av|A_C,A_C
+Shepherd Av,C,B,Fulton St,CShepherd AvFulton St,Shepherd_Av|C,C|Shepherd_Av|C,C
+Van Siclen Av,C,B,Fulton St,CVan Siclen AvFulton St,Van_Siclen_Av|C,C|Van_Siclen_Av|C,C
+Liberty Av,C,B,Fulton St,CLiberty AvFulton St,Liberty_Av|C,C|Liberty_Av|C,C
+Rockaway Av,C,B,Fulton St,CRockaway AvFulton St,Rockaway_Av|C,C|Rockaway_Av|C,C
+Ralph Av,C,B,Fulton St,CRalph AvFulton St,Ralph_Av|C,C|Ralph_Av|C,C
+Utica Av,A,B,Fulton St,AUtica AvFulton St,Utica_Av|A_C,A|Utica_Av|A_C,A_C
+Utica Av,C,B,Fulton St,CUtica AvFulton St,Utica_Av|A_C,C|Utica_Av|A_C,A_C
+Kingston-Throop Avs,C,B,Fulton St,CKingston-Throop AvsFulton St,Kingston_Throop_Avs|C,C|Kingston_Throop_Avs|C,C
+Nostrand Av,A,B,Fulton St,ANostrand AvFulton St,Nostrand_Av|A_C,A|Nostrand_Av|A_C,A_C
+Nostrand Av,C,B,Fulton St,CNostrand AvFulton St,Nostrand_Av|A_C,C|Nostrand_Av|A_C,A_C
+Clinton-Washington Avs,C,B,Fulton St,CClinton-Washington AvsFulton St,Clinton_Washington_Avs|C,C|Clinton_Washington_Avs|C,C
+Lafayette Av,C,B,Fulton St,CLafayette AvFulton St,Lafayette_Av|C,C|Lafayette_Av|C,C
+High St,A,B,Fulton St,AHigh StFulton St,High_St|A_C,A|High_St|A_C,A_C
+High St,C,B,Fulton St,CHigh StFulton St,High_St|A_C,C|High_St|A_C,A_C
+Fulton St,G,B,Crosstown,GFulton StCrosstown,Fulton_St|G,G|Fulton_St|G,G
+Clinton-Washington Avs,G,B,Crosstown,GClinton-Washington AvsCrosstown,Clinton_Washington_Avs|G,G|Clinton_Washington_Avs|G,G
+Classon Av,G,B,Crosstown,GClasson AvCrosstown,Classon_Av|G,G|Classon_Av|G,G
+Bedford-Nostrand Avs,G,B,Crosstown,GBedford-Nostrand AvsCrosstown,Bedford_Nostrand_Avs|G,G|Bedford_Nostrand_Avs|G,G
+Myrtle-Willoughby Avs,G,B,Crosstown,GMyrtle-Willoughby AvsCrosstown,Myrtle_Willoughby_Avs|G,G|Myrtle_Willoughby_Avs|G,G
+Flushing Av,G,B,Crosstown,GFlushing AvCrosstown,Flushing_Av|G,G|Flushing_Av|G,G
+Broadway,G,B,Crosstown,GBroadwayCrosstown,Broadway|G,G|Broadway|G,G
+Nassau Av,G,B,Crosstown,GNassau AvCrosstown,Nassau_Av|G,G|Nassau_Av|G,G
+Greenpoint Av,G,B,Crosstown,GGreenpoint AvCrosstown,Greenpoint_Av|G,G|Greenpoint_Av|G,G
+21 St,G,Q,Crosstown,G21 StCrosstown,21_St|G,G|21_St|G,G
+21 St-Queensbridge,F,Q,Queens Blvd,F21 St-QueensbridgeQueens Blvd,21_St_Queensbridge|F,F|21_St_Queensbridge|F,F
+Queens Plaza,E,Q,Queens Blvd,EQueens PlazaQueens Blvd,Queens_Plaza|E_M_R,E|Queens_Plaza|E_M_R,E_M_R
+Queens Plaza,M,Q,Queens Blvd,MQueens PlazaQueens Blvd,Queens_Plaza|E_M_R,M|Queens_Plaza|E_M_R,E_M_R
+Queens Plaza,R,Q,Queens Blvd,RQueens PlazaQueens Blvd,Queens_Plaza|E_M_R,R|Queens_Plaza|E_M_R,E_M_R
+36 St,M,Q,Queens Blvd,M36 StQueens Blvd,36_St|M_R,M|36_St|M_R,M_R
+36 St,R,Q,Queens Blvd,R36 StQueens Blvd,36_St|M_R,R|36_St|M_R,M_R
+Steinway St,M,Q,Queens Blvd,MSteinway StQueens Blvd,Steinway_St|M_R,M|Steinway_St|M_R,M_R
+Steinway St,R,Q,Queens Blvd,RSteinway StQueens Blvd,Steinway_St|M_R,R|Steinway_St|M_R,M_R
+46 St,M,Q,Queens Blvd,M46 StQueens Blvd,46_St|M_R,M|46_St|M_R,M_R
+46 St,R,Q,Queens Blvd,R46 StQueens Blvd,46_St|M_R,R|46_St|M_R,M_R
+Northern Blvd,M,Q,Queens Blvd,MNorthern BlvdQueens Blvd,Northern_Blvd|M_R,M|Northern_Blvd|M_R,M_R
+Northern Blvd,R,Q,Queens Blvd,RNorthern BlvdQueens Blvd,Northern_Blvd|M_R,R|Northern_Blvd|M_R,M_R
+65 St,M,Q,Queens Blvd,M65 StQueens Blvd,65_St|M_R,M|65_St|M_R,M_R
+65 St,R,Q,Queens Blvd,R65 StQueens Blvd,65_St|M_R,R|65_St|M_R,M_R
+Elmhurst Av,M,Q,Queens Blvd,MElmhurst AvQueens Blvd,Elmhurst_Av|M_R,M|Elmhurst_Av|M_R,M_R
+Elmhurst Av,R,Q,Queens Blvd,RElmhurst AvQueens Blvd,Elmhurst_Av|M_R,R|Elmhurst_Av|M_R,M_R
+Grand Av-Newtown,M,Q,Queens Blvd,MGrand Av-NewtownQueens Blvd,Grand_Av_Newtown|M_R,M|Grand_Av_Newtown|M_R,M_R
+Grand Av-Newtown,R,Q,Queens Blvd,RGrand Av-NewtownQueens Blvd,Grand_Av_Newtown|M_R,R|Grand_Av_Newtown|M_R,M_R
+Woodhaven Blvd,M,Q,Queens Blvd,MWoodhaven BlvdQueens Blvd,Woodhaven_Blvd|M_R,M|Woodhaven_Blvd|M_R,M_R
+Woodhaven Blvd,R,Q,Queens Blvd,RWoodhaven BlvdQueens Blvd,Woodhaven_Blvd|M_R,R|Woodhaven_Blvd|M_R,M_R
+63 Dr-Rego Park,M,Q,Queens Blvd,M63 Dr-Rego ParkQueens Blvd,63_Dr_Rego_Park|M_R,M|63_Dr_Rego_Park|M_R,M_R
+63 Dr-Rego Park,R,Q,Queens Blvd,R63 Dr-Rego ParkQueens Blvd,63_Dr_Rego_Park|M_R,R|63_Dr_Rego_Park|M_R,M_R
+67 Av,M,Q,Queens Blvd,M67 AvQueens Blvd,67_Av|M_R,M|67_Av|M_R,M_R
+67 Av,R,Q,Queens Blvd,R67 AvQueens Blvd,67_Av|M_R,R|67_Av|M_R,M_R
+Forest Hills-71 Av,E,Q,Queens Blvd,EForest Hills-71 AvQueens Blvd,Forest_Hills_71_Av|E_F_M_R,E|Forest_Hills_71_Av|E_F_M_R,E_F_M_R
+Forest Hills-71 Av,F,Q,Queens Blvd,FForest Hills-71 AvQueens Blvd,Forest_Hills_71_Av|E_F_M_R,F|Forest_Hills_71_Av|E_F_M_R,E_F_M_R
+Forest Hills-71 Av,M,Q,Queens Blvd,MForest Hills-71 AvQueens Blvd,Forest_Hills_71_Av|E_F_M_R,M|Forest_Hills_71_Av|E_F_M_R,E_F_M_R
+Forest Hills-71 Av,R,Q,Queens Blvd,RForest Hills-71 AvQueens Blvd,Forest_Hills_71_Av|E_F_M_R,R|Forest_Hills_71_Av|E_F_M_R,E_F_M_R
+75 Av,E,Q,Queens Blvd,E75 AvQueens Blvd,75_Av|E_F,E|75_Av|E_F,E_F
+75 Av,F,Q,Queens Blvd,F75 AvQueens Blvd,75_Av|E_F,F|75_Av|E_F,E_F
+Kew Gardens-Union Turnpike,E,Q,Queens Blvd,EKew Gardens-Union TurnpikeQueens Blvd,Kew_Gardens_Union_Turnpike|E_F,E|Kew_Gardens_Union_Turnpike|E_F,E_F
+Kew Gardens-Union Turnpike,F,Q,Queens Blvd,FKew Gardens-Union TurnpikeQueens Blvd,Kew_Gardens_Union_Turnpike|E_F,F|Kew_Gardens_Union_Turnpike|E_F,E_F
+Briarwood-Van Wyck Blvd,E,Q,Queens Blvd,EBriarwood-Van Wyck BlvdQueens Blvd,Briarwood_Van_Wyck_Blvd|E_F,E|Briarwood_Van_Wyck_Blvd|E_F,E_F
+Briarwood-Van Wyck Blvd,F,Q,Queens Blvd,FBriarwood-Van Wyck BlvdQueens Blvd,Briarwood_Van_Wyck_Blvd|E_F,F|Briarwood_Van_Wyck_Blvd|E_F,E_F
+Sutphin Blvd,F,Q,Queens Blvd,FSutphin BlvdQueens Blvd,Sutphin_Blvd|F,F|Sutphin_Blvd|F,F
+Parsons Blvd,F,Q,Queens Blvd,FParsons BlvdQueens Blvd,Parsons_Blvd|F,F|Parsons_Blvd|F,F
+169 St,F,Q,Queens Blvd,F169 StQueens Blvd,169_St|F,F|169_St|F,F
+Jamaica-179 St,F,Q,Queens Blvd,FJamaica-179 StQueens Blvd,Jamaica_179_St|F,F|Jamaica_179_St|F,F
+Jamaica-Van Wyck,E,Q,Queens Blvd,EJamaica-Van WyckQueens Blvd,Jamaica_Van_Wyck|E,E|Jamaica_Van_Wyck|E,E
+121 St,J,Q,Jamaica,J121 StJamaica,121_St|J_Z,J|121_St|J_Z,J_Z
+121 St,Z,Q,Jamaica,Z121 StJamaica,121_St|J_Z,Z|121_St|J_Z,J_Z
+111 St,J,Q,Jamaica,J111 StJamaica,111_St|J,J|111_St|J,J
+104 St,J,Q,Jamaica,J104 StJamaica,104_St|J_Z,J|104_St|J_Z,J_Z
+104 St,Z,Q,Jamaica,Z104 StJamaica,104_St|J_Z,Z|104_St|J_Z,J_Z
+Woodhaven Blvd,J,Q,Jamaica,JWoodhaven BlvdJamaica,Woodhaven_Blvd|J_Z,J|Woodhaven_Blvd|J_Z,J_Z
+Woodhaven Blvd,Z,Q,Jamaica,ZWoodhaven BlvdJamaica,Woodhaven_Blvd|J_Z,Z|Woodhaven_Blvd|J_Z,J_Z
+85 St-Forest Pkwy,J,Q,Jamaica,J85 St-Forest PkwyJamaica,85_St_Forest_Pkwy|J,J|85_St_Forest_Pkwy|J,J
+75 St-Elderts Ln,J,Q,Jamaica,J75 St-Elderts LnJamaica,75_St_Elderts_Ln|J_Z,J|75_St_Elderts_Ln|J_Z,J_Z
+75 St-Elderts Ln,Z,Q,Jamaica,Z75 St-Elderts LnJamaica,75_St_Elderts_Ln|J_Z,Z|75_St_Elderts_Ln|J_Z,J_Z
+Cypress Hills,J,B,Jamaica,JCypress HillsJamaica,Cypress_Hills|J,J|Cypress_Hills|J,J
+Crescent St,J,B,Jamaica,JCrescent StJamaica,Crescent_St|J_Z,J|Crescent_St|J_Z,J_Z
+Crescent St,Z,B,Jamaica,ZCrescent StJamaica,Crescent_St|J_Z,Z|Crescent_St|J_Z,J_Z
+Norwood Av,J,B,Jamaica,JNorwood AvJamaica,Norwood_Av|J_Z,J|Norwood_Av|J_Z,J_Z
+Norwood Av,Z,B,Jamaica,ZNorwood AvJamaica,Norwood_Av|J_Z,Z|Norwood_Av|J_Z,J_Z
+Cleveland St,J,B,Jamaica,JCleveland StJamaica,Cleveland_St|J,J|Cleveland_St|J,J
+Van Siclen Av,J,B,Jamaica,JVan Siclen AvJamaica,Van_Siclen_Av|J_Z,J|Van_Siclen_Av|J_Z,J_Z
+Van Siclen Av,Z,B,Jamaica,ZVan Siclen AvJamaica,Van_Siclen_Av|J_Z,Z|Van_Siclen_Av|J_Z,J_Z
+Alabama Av,J,B,Jamaica,JAlabama AvJamaica,Alabama_Av|J,J|Alabama_Av|J,J
+Chauncey St,J,B,Jamaica,JChauncey StJamaica,Chauncey_St|J_Z,J|Chauncey_St|J_Z,J_Z
+Chauncey St,Z,B,Jamaica,ZChauncey StJamaica,Chauncey_St|J_Z,Z|Chauncey_St|J_Z,J_Z
+Halsey St,J,B,Jamaica,JHalsey StJamaica,Halsey_St|J,J|Halsey_St|J,J
+Gates Av,J,B,Jamaica,JGates AvJamaica,Gates_Av|J_Z,J|Gates_Av|J_Z,J_Z
+Gates Av,Z,B,Jamaica,ZGates AvJamaica,Gates_Av|J_Z,Z|Gates_Av|J_Z,J_Z
+Kosciuszko St,J,B,Jamaica,JKosciuszko StJamaica,Kosciuszko_St|J,J|Kosciuszko_St|J,J
+Myrtle Av,J,B,Jamaica,JMyrtle AvJamaica,Myrtle_Av|J_M_Z,J|Myrtle_Av|J_M_Z,J_M_Z
+Myrtle Av,M,B,Jamaica,MMyrtle AvJamaica,Myrtle_Av|J_M_Z,M|Myrtle_Av|J_M_Z,J_M_Z
+Myrtle Av,Z,B,Jamaica,ZMyrtle AvJamaica,Myrtle_Av|J_M_Z,Z|Myrtle_Av|J_M_Z,J_M_Z
+Flushing Av,J,B,Jamaica,JFlushing AvJamaica,Flushing_Av|J_M,J|Flushing_Av|J_M,J_M
+Flushing Av,M,B,Jamaica,MFlushing AvJamaica,Flushing_Av|J_M,M|Flushing_Av|J_M,J_M
+Lorimer St,J,B,Jamaica,JLorimer StJamaica,Lorimer_St|J_M,J|Lorimer_St|J_M,J_M
+Lorimer St,M,B,Jamaica,MLorimer StJamaica,Lorimer_St|J_M,M|Lorimer_St|J_M,J_M
+Hewes St,J,B,Jamaica,JHewes StJamaica,Hewes_St|J_M,J|Hewes_St|J_M,J_M
+Hewes St,M,B,Jamaica,MHewes StJamaica,Hewes_St|J_M,M|Hewes_St|J_M,J_M
+Marcy Av,J,B,Jamaica,JMarcy AvJamaica,Marcy_Av|J_M_Z,J|Marcy_Av|J_M_Z,J_M_Z
+Marcy Av,M,B,Jamaica,MMarcy AvJamaica,Marcy_Av|J_M_Z,M|Marcy_Av|J_M_Z,J_M_Z
+Marcy Av,Z,B,Jamaica,ZMarcy AvJamaica,Marcy_Av|J_M_Z,Z|Marcy_Av|J_M_Z,J_M_Z
+Middle Village-Metropolitan Av,M,Q,Myrtle Av,MMiddle Village-Metropolitan AvMyrtle Av,Middle_Village_Metropolitan_Av|M,M|Middle_Village_Metropolitan_Av|M,M
+Fresh Pond Rd,M,Q,Myrtle Av,MFresh Pond RdMyrtle Av,Fresh_Pond_Rd|M,M|Fresh_Pond_Rd|M,M
+Forest Av,M,Q,Myrtle Av,MForest AvMyrtle Av,Forest_Av|M,M|Forest_Av|M,M
+Seneca Av,M,Q,Myrtle Av,MSeneca AvMyrtle Av,Seneca_Av|M,M|Seneca_Av|M,M
+Knickerbocker Av,M,B,Myrtle Av,MKnickerbocker AvMyrtle Av,Knickerbocker_Av|M,M|Knickerbocker_Av|M,M
+Central Av,M,B,Myrtle Av,MCentral AvMyrtle Av,Central_Av|M,M|Central_Av|M,M
+Canarsie-Rockaway Pkwy,L,B,Canarsie,LCanarsie-Rockaway PkwyCanarsie,Canarsie_Rockaway_Pkwy|L,L|Canarsie_Rockaway_Pkwy|L,L
+East 105 St,L,B,Canarsie,LEast 105 StCanarsie,East_105_St|L,L|East_105_St|L,L
+New Lots Av,L,B,Canarsie,LNew Lots AvCanarsie,New_Lots_Av|L,L|New_Lots_Av|L,L
+Livonia Av,L,B,Canarsie,LLivonia AvCanarsie,Livonia_Av|L,L|Livonia_Av|L,L
+Sutter Av,L,B,Canarsie,LSutter AvCanarsie,Sutter_Av|L,L|Sutter_Av|L,L
+Atlantic Av,L,B,Canarsie,LAtlantic AvCanarsie,Atlantic_Av|L,L|Atlantic_Av|L,L
+Bushwick Av-Aberdeen St,L,B,Canarsie,LBushwick Av-Aberdeen StCanarsie,Bushwick_Av_Aberdeen_St|L,L|Bushwick_Av_Aberdeen_St|L,L
+Wilson Av,L,B,Canarsie,LWilson AvCanarsie,Wilson_Av|L,L|Wilson_Av|L,L
+Halsey St,L,B,Canarsie,LHalsey StCanarsie,Halsey_St|L,L|Halsey_St|L,L
+DeKalb Av,L,B,Canarsie,LDeKalb AvCanarsie,DeKalb_Av|L,L|DeKalb_Av|L,L
+Jefferson St,L,B,Canarsie,LJefferson StCanarsie,Jefferson_St|L,L|Jefferson_St|L,L
+Morgan Av,L,B,Canarsie,LMorgan AvCanarsie,Morgan_Av|L,L|Morgan_Av|L,L
+Montrose Av,L,B,Canarsie,LMontrose AvCanarsie,Montrose_Av|L,L|Montrose_Av|L,L
+Grand St,L,B,Canarsie,LGrand StCanarsie,Grand_St|L,L|Grand_St|L,L
+Graham Av,L,B,Canarsie,LGraham AvCanarsie,Graham_Av|L,L|Graham_Av|L,L
+Bedford Av,L,B,Canarsie,LBedford AvCanarsie,Bedford_Av|L,L|Bedford_Av|L,L
+Flushing-Main St,7,Q,Flushing (Queens),7Flushing-Main StFlushing (Queens),Flushing_Main_St|7,7|Flushing_Main_St|7,7
+Mets-Willets Point,7,Q,Flushing (Queens),7Mets-Willets PointFlushing (Queens),Mets_Willets_Point|7,7|Mets_Willets_Point|7,7
+111 St,7,Q,Flushing (Queens),7111 StFlushing (Queens),111_St|7,7|111_St|7,7
+103 St-Corona Plaza,7,Q,Flushing (Queens),7103 St-Corona PlazaFlushing (Queens),103_St_Corona_Plaza|7,7|103_St_Corona_Plaza|7,7
+Junction Blvd,7,Q,Flushing (Queens),7Junction BlvdFlushing (Queens),Junction_Blvd|7,7|Junction_Blvd|7,7
+90 St-Elmhurst Av,7,Q,Flushing (Queens),790 St-Elmhurst AvFlushing (Queens),90_St_Elmhurst_Av|7,7|90_St_Elmhurst_Av|7,7
+82 St-Jackson Hts,7,Q,Flushing (Queens),782 St-Jackson HtsFlushing (Queens),82_St_Jackson_Hts|7,7|82_St_Jackson_Hts|7,7
+69 St,7,Q,Flushing (Queens),769 StFlushing (Queens),69_St|7,7|69_St|7,7
+Woodside-61 St,7,Q,Flushing (Queens),7Woodside-61 StFlushing (Queens),Woodside_61_St|7,7|Woodside_61_St|7,7
+52 St,7,Q,Flushing (Queens),752 StFlushing (Queens),52_St|7,7|52_St|7,7
+46 St-Bliss St,7,Q,Flushing (Queens),746 St-Bliss StFlushing (Queens),46_St_Bliss_St|7,7|46_St_Bliss_St|7,7
+40 St-Lowery St,7,Q,Flushing (Queens),740 St-Lowery StFlushing (Queens),40_St_Lowery_St|7,7|40_St_Lowery_St|7,7
+33 St-Rawson St,7,Q,Flushing (Queens),733 St-Rawson StFlushing (Queens),33_St_Rawson_St|7,7|33_St_Rawson_St|7,7
+Hunters Point Av,7,Q,Flushing (Queens),7Hunters Point AvFlushing (Queens),Hunters_Point_Av|7,7|Hunters_Point_Av|7,7
+Vernon Blvd-Jackson Av,7,Q,Flushing (Queens),7Vernon Blvd-Jackson AvFlushing (Queens),Vernon_Blvd_Jackson_Av|7,7|Vernon_Blvd_Jackson_Av|7,7
+Astoria-Ditmars Blvd,N,Q,Astoria,NAstoria-Ditmars BlvdAstoria,Astoria_Ditmars_Blvd|N_W,N|Astoria_Ditmars_Blvd|N_W,N_Q
+Astoria-Ditmars Blvd,Q,Q,Astoria,QAstoria-Ditmars BlvdAstoria,Astoria_Ditmars_Blvd|N_W,Q|Astoria_Ditmars_Blvd|N_W,N_Q
+Astoria Blvd,N,Q,Astoria,NAstoria BlvdAstoria,Astoria_Blvd|N_W,N|Astoria_Blvd|N_W,N_Q
+Astoria Blvd,Q,Q,Astoria,QAstoria BlvdAstoria,Astoria_Blvd|N_W,Q|Astoria_Blvd|N_W,N_Q
+30 Av,N,Q,Astoria,N30 AvAstoria,30_Av|N_W,N|30_Av|N_W,N_Q
+30 Av,Q,Q,Astoria,Q30 AvAstoria,30_Av|N_W,Q|30_Av|N_W,N_Q
+Broadway,N,Q,Astoria,NBroadwayAstoria,Broadway|N_W,N|Broadway|N_W,N_Q
+Broadway,Q,Q,Astoria,QBroadwayAstoria,Broadway|N_W,Q|Broadway|N_W,N_Q
+36 Av,N,Q,Astoria,N36 AvAstoria,36_Av|N_W,N|36_Av|N_W,N_Q
+36 Av,Q,Q,Astoria,Q36 AvAstoria,36_Av|N_W,Q|36_Av|N_W,N_Q
+39 Av,N,Q,Astoria,N39 AvAstoria,39_Av|N_W,N|39_Av|N_W,N_Q
+39 Av,Q,Q,Astoria,Q39 AvAstoria,39_Av|N_W,Q|39_Av|N_W,N_Q
+Fulton St,2,M,Broadway/7 Av (CBD),2Fulton StBroadway/7 Av (CBD),Fulton_St|A_C_J_Z_2_3_4_5,2|Fulton_St|A_C_J_Z_2_3_4_5,2_3
+Fulton St,3,M,Broadway/7 Av (CBD),3Fulton StBroadway/7 Av (CBD),Fulton_St|A_C_J_Z_2_3_4_5,3|Fulton_St|A_C_J_Z_2_3_4_5,2_3
+Park Place,2,M,Broadway/7 Av (CBD),2Park PlaceBroadway/7 Av (CBD),Chambers_St_WTC_Park_Place|A_C_E_2_3,2|Chambers_St_WTC_Park_Place|A_C_E_2_3,2_3
+Park Place,3,M,Broadway/7 Av (CBD),3Park PlaceBroadway/7 Av (CBD),Chambers_St_WTC_Park_Place|A_C_E_2_3,3|Chambers_St_WTC_Park_Place|A_C_E_2_3,2_3
+South Ferry,1,M,Broadway/7 Av (CBD),1South FerryBroadway/7 Av (CBD),South_Ferry_Whitehall_St|1_R_W,1|South_Ferry_Whitehall_St|1_R_W,1
+14 St,1,M,Broadway/7 Av (CBD),114 StBroadway/7 Av (CBD),14_St_6_Av|F_M_1_2_3_L,1|14_St_6_Av|F_M_1_2_3_L,1_2_3
+14 St,2,M,Broadway/7 Av (CBD),214 StBroadway/7 Av (CBD),14_St_6_Av|F_M_1_2_3_L,2|14_St_6_Av|F_M_1_2_3_L,1_2_3
+14 St,3,M,Broadway/7 Av (CBD),314 StBroadway/7 Av (CBD),14_St_6_Av|F_M_1_2_3_L,3|14_St_6_Av|F_M_1_2_3_L,1_2_3
+Times Square-42 St,1,M,Broadway/7 Av (CBD),1Times Square-42 StBroadway/7 Av (CBD),Times_Sq_42_St_42_St|N_Q_R_W_S_1_2_3_7_A_C_E,1|Times_Sq_42_St_42_St|N_Q_R_W_S_1_2_3_7_A_C_E,1_2_3
+Times Square-42 St,2,M,Broadway/7 Av (CBD),2Times Square-42 StBroadway/7 Av (CBD),Times_Sq_42_St_42_St|N_Q_R_W_S_1_2_3_7_A_C_E,2|Times_Sq_42_St_42_St|N_Q_R_W_S_1_2_3_7_A_C_E,1_2_3
+Times Square-42 St,3,M,Broadway/7 Av (CBD),3Times Square-42 StBroadway/7 Av (CBD),Times_Sq_42_St_42_St|N_Q_R_W_S_1_2_3_7_A_C_E,3|Times_Sq_42_St_42_St|N_Q_R_W_S_1_2_3_7_A_C_E,1_2_3
+59 St-Columbus Circle,1,M,Broadway/7 Av (CBD),159 St-Columbus CircleBroadway/7 Av (CBD),59_St_Columbus_Circle|A_B_C_D_1,1|59_St_Columbus_Circle|A_B_C_D_1,1
+168 St,1,M,Upper Broadway,1168 StUpper Broadway,168_St|A_C_1,1|168_St|A_C_1,1
+Fulton St,4,M,Lexington Av (CBD),4Fulton StLexington Av (CBD),Fulton_St|A_C_J_Z_2_3_4_5,4|Fulton_St|A_C_J_Z_2_3_4_5,4_5
+Fulton St,5,M,Lexington Av (CBD),5Fulton StLexington Av (CBD),Fulton_St|A_C_J_Z_2_3_4_5,5|Fulton_St|A_C_J_Z_2_3_4_5,4_5
+Brooklyn Bridge-City Hall,4,M,Lexington Av (CBD),4Brooklyn Bridge-City HallLexington Av (CBD),Brooklyn_Bridge_City_Hall_Chambers_St|4_5_6_J_Z,4|Brooklyn_Bridge_City_Hall_Chambers_St|4_5_6_J_Z,4_5_6
+Brooklyn Bridge-City Hall,5,M,Lexington Av (CBD),5Brooklyn Bridge-City HallLexington Av (CBD),Brooklyn_Bridge_City_Hall_Chambers_St|4_5_6_J_Z,5|Brooklyn_Bridge_City_Hall_Chambers_St|4_5_6_J_Z,4_5_6
+Brooklyn Bridge-City Hall,6,M,Lexington Av (CBD),6Brooklyn Bridge-City HallLexington Av (CBD),Brooklyn_Bridge_City_Hall_Chambers_St|4_5_6_J_Z,6|Brooklyn_Bridge_City_Hall_Chambers_St|4_5_6_J_Z,4_5_6
+Canal St,6,M,Lexington Av (CBD),6Canal StLexington Av (CBD),Canal_St|J_N_Q_R_W_Z_6,6|Canal_St|J_N_Q_R_W_Z_6,6
+Bleecker St,6,M,Lexington Av (CBD),6Bleecker StLexington Av (CBD),Broadway_Lafayette_St_Bleecker_St|B_D_F_M_6,6|Broadway_Lafayette_St_Bleecker_St|B_D_F_M_6,6
+14 St-Union Sq,4,M,Lexington Av (CBD),414 St-Union SqLexington Av (CBD),14_St_Union_Sq|L_N_Q_R_W_4_5_6,4|14_St_Union_Sq|L_N_Q_R_W_4_5_6,4_5_6
+14 St-Union Sq,5,M,Lexington Av (CBD),514 St-Union SqLexington Av (CBD),14_St_Union_Sq|L_N_Q_R_W_4_5_6,5|14_St_Union_Sq|L_N_Q_R_W_4_5_6,4_5_6
+14 St-Union Sq,6,M,Lexington Av (CBD),614 St-Union SqLexington Av (CBD),14_St_Union_Sq|L_N_Q_R_W_4_5_6,6|14_St_Union_Sq|L_N_Q_R_W_4_5_6,4_5_6
+Grand Central,4,M,Lexington Av (CBD),4Grand Central-42 StLexington Av (CBD),Grand_Central_42_St|S_4_5_6_7,4|Grand_Central_42_St|S_4_5_6_7,4_5_6
+Grand Central,5,M,Lexington Av (CBD),5Grand Central-42 StLexington Av (CBD),Grand_Central_42_St|S_4_5_6_7,5|Grand_Central_42_St|S_4_5_6_7,4_5_6
+Grand Central,6,M,Lexington Av (CBD),6Grand Central-42 StLexington Av (CBD),Grand_Central_42_St|S_4_5_6_7,6|Grand_Central_42_St|S_4_5_6_7,4_5_6
+Lexington Av-53 St /51 St,6,M,Lexington Av (CBD),651 StLexington Av (CBD),Lexington_Av_53_St_51_St|E_M_6,6|Lexington_Av_53_St_51_St|E_M_6,6
+59 St,4,M,Lexington Av (CBD),459 StLexington Av (CBD),Lexington_Av_59_St|N_W_R_4_5_6,4|Lexington_Av_59_St|N_W_R_4_5_6,4_5_6
+59 St,5,M,Lexington Av (CBD),559 StLexington Av (CBD),Lexington_Av_59_St|N_W_R_4_5_6,5|Lexington_Av_59_St|N_W_R_4_5_6,4_5_6
+59 St,6,M,Lexington Av (CBD),659 StLexington Av (CBD),Lexington_Av_59_St|N_W_R_4_5_6,6|Lexington_Av_59_St|N_W_R_4_5_6,4_5_6
+149 St-Grand Concourse,4,Bx,Jerome Av,4149 St-Grand ConcourseJerome Av,149_St_Grand_Concourse|2_4_5,4|149_St_Grand_Concourse|2_4_5,4
+161 St-Yankee Stadium,4,Bx,Jerome Av,4161 St-Yankee StadiumJerome Av,161_St_Yankee_Stadium|B_D_4,4|161_St_Yankee_Stadium|B_D_4,4
+149 St-Grand Concourse,2,Bx,White Plains Rd,2149 St-Grand ConcourseWhite Plains Rd,149_St_Grand_Concourse|2_4_5,2|149_St_Grand_Concourse|2_4_5,2_5
+149 St-Grand Concourse,5,Bx,White Plains Rd,5149 St-Grand ConcourseWhite Plains Rd,149_St_Grand_Concourse|2_4_5,5|149_St_Grand_Concourse|2_4_5,2_5
+Times Square,7,M,Flushing (Manhattan),7Times SquareFlushing (Manhattan),Times_Sq_42_St_42_St|N_Q_R_W_S_1_2_3_7_A_C_E,7|Times_Sq_42_St_42_St|N_Q_R_W_S_1_2_3_7_A_C_E,7
+5 Av,7,M,Flushing (Manhattan),75 AvFlushing (Manhattan),42_St_Bryant_Pk_5_Av|B_D_F_M_7,7|42_St_Bryant_Pk_5_Av|B_D_F_M_7,7
+Grand Central,7,M,Flushing (Manhattan),7Grand CentralFlushing (Manhattan),Grand_Central_42_St|S_4_5_6_7,7|Grand_Central_42_St|S_4_5_6_7,7
+Times Square-42 St,S,M,42 St Shtl,STimes Square42 St Shtl,Times_Sq_42_St_42_St|N_Q_R_W_S_1_2_3_7_A_C_E,S|Times_Sq_42_St_42_St|N_Q_R_W_S_1_2_3_7_A_C_E,S
+Grand Central,S,M,42 St Shtl,SGrand Central42 St Shtl,Grand_Central_42_St|S_4_5_6_7,S|Grand_Central_42_St|S_4_5_6_7,S
+Whitehall St-South Ferry,R,M,Broadway-60 St,RWhitehall St-South FerryBroadway-60 St,South_Ferry_Whitehall_St|1_R_W,R|South_Ferry_Whitehall_St|1_R_W,R
+Canal St,N,M,Broadway-60 St,NCanal StBroadway-60 St,Canal_St|J_N_Q_R_W_Z_6,N|Canal_St|J_N_Q_R_W_Z_6,N_Q_R
+Canal St,Q,M,Broadway-60 St,QCanal StBroadway-60 St,Canal_St|J_N_Q_R_W_Z_6,Q|Canal_St|J_N_Q_R_W_Z_6,N_Q_R
+Canal St,R,M,Broadway-60 St,RCanal StBroadway-60 St,Canal_St|J_N_Q_R_W_Z_6,R|Canal_St|J_N_Q_R_W_Z_6,N_Q_R
+14 St-Union Sq,N,M,Broadway-60 St,N14 St-Union SqBroadway-60 St,14_St_Union_Sq|L_N_Q_R_W_4_5_6,N|14_St_Union_Sq|L_N_Q_R_W_4_5_6,N_Q_R
+14 St-Union Sq,Q,M,Broadway-60 St,Q14 St-Union SqBroadway-60 St,14_St_Union_Sq|L_N_Q_R_W_4_5_6,Q|14_St_Union_Sq|L_N_Q_R_W_4_5_6,N_Q_R
+14 St-Union Sq,R,M,Broadway-60 St,R14 St-Union SqBroadway-60 St,14_St_Union_Sq|L_N_Q_R_W_4_5_6,R|14_St_Union_Sq|L_N_Q_R_W_4_5_6,N_Q_R
+34 St-Herald Square,N,M,Broadway-60 St,N34 St-Herald SquareBroadway-60 St,34_St_Herald_Square|B_D_F_M_N_Q_R_W,N|34_St_Herald_Square|B_D_F_M_N_Q_R_W,N_Q_R
+34 St-Herald Square,Q,M,Broadway-60 St,Q34 St-Herald SquareBroadway-60 St,34_St_Herald_Square|B_D_F_M_N_Q_R_W,Q|34_St_Herald_Square|B_D_F_M_N_Q_R_W,N_Q_R
+34 St-Herald Square,R,M,Broadway-60 St,R34 St-Herald SquareBroadway-60 St,34_St_Herald_Square|B_D_F_M_N_Q_R_W,R|34_St_Herald_Square|B_D_F_M_N_Q_R_W,N_Q_R
+Times Square-42 St,N,M,Broadway-60 St,NTimes Sq-42 StBroadway-60 St,Times_Sq_42_St_42_St|N_Q_R_W_S_1_2_3_7_A_C_E,N|Times_Sq_42_St_42_St|N_Q_R_W_S_1_2_3_7_A_C_E,N_Q_R
+Times Square-42 St,Q,M,Broadway-60 St,QTimes Sq-42 StBroadway-60 St,Times_Sq_42_St_42_St|N_Q_R_W_S_1_2_3_7_A_C_E,Q|Times_Sq_42_St_42_St|N_Q_R_W_S_1_2_3_7_A_C_E,N_Q_R
+Times Square-42 St,R,M,Broadway-60 St,RTimes Sq-42 StBroadway-60 St,Times_Sq_42_St_42_St|N_Q_R_W_S_1_2_3_7_A_C_E,R|Times_Sq_42_St_42_St|N_Q_R_W_S_1_2_3_7_A_C_E,N_Q_R
+Lexington Av-59 St,N,M,Broadway-60 St,NLexington Av-59 StBroadway-60 St,Lexington_Av_59_St|N_W_R_4_5_6,N|Lexington_Av_59_St|N_W_R_4_5_6,N_Q_R
+Lexington Av-59 St,Q,M,Broadway-60 St,QLexington Av-59 StBroadway-60 St,Lexington_Av_59_St|N_W_R_4_5_6,Q|Lexington_Av_59_St|N_W_R_4_5_6,N_Q_R
+Lexington Av-59 St,R,M,Broadway-60 St,RLexington Av-59 StBroadway-60 St,Lexington_Av_59_St|N_W_R_4_5_6,R|Lexington_Av_59_St|N_W_R_4_5_6,N_Q_R
+Fulton St,J,M,Nassau St,JFulton StNassau St,Fulton_St|A_C_J_Z_2_3_4_5,J|Fulton_St|A_C_J_Z_2_3_4_5,J_Z
+Fulton St,Z,M,Nassau St,ZFulton StNassau St,Fulton_St|A_C_J_Z_2_3_4_5,Z|Fulton_St|A_C_J_Z_2_3_4_5,J_Z
+Chambers St,J,M,Nassau St,JChambers StNassau St,Brooklyn_Bridge_City_Hall_Chambers_St|4_5_6_J_Z,J|Brooklyn_Bridge_City_Hall_Chambers_St|4_5_6_J_Z,J_Z
+Chambers St,Z,M,Nassau St,ZChambers StNassau St,Brooklyn_Bridge_City_Hall_Chambers_St|4_5_6_J_Z,Z|Brooklyn_Bridge_City_Hall_Chambers_St|4_5_6_J_Z,J_Z
+Canal St,J,M,Nassau St,JCanal StNassau St,Canal_St|J_N_Q_R_W_Z_6,J|Canal_St|J_N_Q_R_W_Z_6,J_Z
+Canal St,Z,M,Nassau St,ZCanal StNassau St,Canal_St|J_N_Q_R_W_Z_6,Z|Canal_St|J_N_Q_R_W_Z_6,J_Z
+Essex St,J,M,Nassau St,JEssex StNassau St,Delancey_St_Essex_St|F_J_M_Z,J|Delancey_St_Essex_St|F_J_M_Z,J_M_Z
+Essex St,M,M,Nassau St,MEssex StNassau St,Delancey_St_Essex_St|F_J_M_Z,M|Delancey_St_Essex_St|F_J_M_Z,J_M_Z
+Essex St,Z,M,Nassau St,ZEssex StNassau St,Delancey_St_Essex_St|F_J_M_Z,Z|Delancey_St_Essex_St|F_J_M_Z,J_M_Z
+8 Av,L,M,14 St,L8 Av14 St,14_St_8_Av|A_C_E_L,L|14_St_8_Av|A_C_E_L,L
+6 Av,L,M,14 St,L6 Av14 St,14_St_6_Av|F_M_1_2_3_L,L|14_St_6_Av|F_M_1_2_3_L,L
+Union Square,L,M,14 St,LUnion Square14 St,14_St_Union_Sq|L_N_Q_R_W_4_5_6,L|14_St_Union_Sq|L_N_Q_R_W_4_5_6,L
+Delancey St,F,M,6 Av,FDelancey St6 Av,Delancey_St_Essex_St|F_J_M_Z,F|Delancey_St_Essex_St|F_J_M_Z,F
+Broadway-Lafayette St,B,M,6 Av,BBroadway-Lafayette St6 Av,Broadway_Lafayette_St_Bleecker_St|B_D_F_M_6,B|Broadway_Lafayette_St_Bleecker_St|B_D_F_M_6,B_D_F_M
+Broadway-Lafayette St,D,M,6 Av,DBroadway-Lafayette St6 Av,Broadway_Lafayette_St_Bleecker_St|B_D_F_M_6,D|Broadway_Lafayette_St_Bleecker_St|B_D_F_M_6,B_D_F_M
+Broadway-Lafayette St,F,M,6 Av,FBroadway-Lafayette St6 Av,Broadway_Lafayette_St_Bleecker_St|B_D_F_M_6,F|Broadway_Lafayette_St_Bleecker_St|B_D_F_M_6,B_D_F_M
+Broadway-Lafayette St,M,M,6 Av,MBroadway-Lafayette St6 Av,Broadway_Lafayette_St_Bleecker_St|B_D_F_M_6,M|Broadway_Lafayette_St_Bleecker_St|B_D_F_M_6,B_D_F_M
+West 4 St-Washington Sq,B,M,6 Av,BWest 4 St-Washington Sq6 Av,West_4_St_Washington_Sq|A_B_C_D_E_F_M,B|West_4_St_Washington_Sq|A_B_C_D_E_F_M,B_D_F_M
+West 4 St-Washington Sq,D,M,6 Av,DWest 4 St-Washington Sq6 Av,West_4_St_Washington_Sq|A_B_C_D_E_F_M,D|West_4_St_Washington_Sq|A_B_C_D_E_F_M,B_D_F_M
+West 4 St-Washington Sq,F,M,6 Av,FWest 4 St-Washington Sq6 Av,West_4_St_Washington_Sq|A_B_C_D_E_F_M,F|West_4_St_Washington_Sq|A_B_C_D_E_F_M,B_D_F_M
+West 4 St-Washington Sq,M,M,6 Av,MWest 4 St-Washington Sq6 Av,West_4_St_Washington_Sq|A_B_C_D_E_F_M,M|West_4_St_Washington_Sq|A_B_C_D_E_F_M,B_D_F_M
+14 St,F,M,6 Av,F14 St6 Av,14_St_6_Av|F_M_1_2_3_L,F|14_St_6_Av|F_M_1_2_3_L,F_M
+14 St,M,M,6 Av,M14 St6 Av,14_St_6_Av|F_M_1_2_3_L,M|14_St_6_Av|F_M_1_2_3_L,F_M
+34 St-Herald Square,B,M,6 Av,B34 St-Herald Sq6 Av,34_St_Herald_Square|B_D_F_M_N_Q_R_W,B|34_St_Herald_Square|B_D_F_M_N_Q_R_W,B_D_F_M
+34 St-Herald Square,D,M,6 Av,D34 St-Herald Sq6 Av,34_St_Herald_Square|B_D_F_M_N_Q_R_W,D|34_St_Herald_Square|B_D_F_M_N_Q_R_W,B_D_F_M
+34 St-Herald Square,F,M,6 Av,F34 St-Herald Sq6 Av,34_St_Herald_Square|B_D_F_M_N_Q_R_W,F|34_St_Herald_Square|B_D_F_M_N_Q_R_W,B_D_F_M
+34 St-Herald Square,M,M,6 Av,M34 St-Herald Sq6 Av,34_St_Herald_Square|B_D_F_M_N_Q_R_W,M|34_St_Herald_Square|B_D_F_M_N_Q_R_W,B_D_F_M
+42 St-Bryant Pk,B,M,6 Av,B42 St-Bryant Pk6 Av,42_St_Bryant_Pk_5_Av|B_D_F_M_7,B|42_St_Bryant_Pk_5_Av|B_D_F_M_7,B_D_F_M
+42 St-Bryant Pk,D,M,6 Av,D42 St-Bryant Pk6 Av,42_St_Bryant_Pk_5_Av|B_D_F_M_7,D|42_St_Bryant_Pk_5_Av|B_D_F_M_7,B_D_F_M
+42 St-Bryant Pk,F,M,6 Av,F42 St-Bryant Pk6 Av,42_St_Bryant_Pk_5_Av|B_D_F_M_7,F|42_St_Bryant_Pk_5_Av|B_D_F_M_7,B_D_F_M
+42 St-Bryant Pk,M,M,6 Av,M42 St-Bryant Pk6 Av,42_St_Bryant_Pk_5_Av|B_D_F_M_7,M|42_St_Bryant_Pk_5_Av|B_D_F_M_7,B_D_F_M
+Fulton St,A,M,8 Av,AFulton St8 Av,Fulton_St|A_C_J_Z_2_3_4_5,A|Fulton_St|A_C_J_Z_2_3_4_5,A_C
+Fulton St,C,M,8 Av,CFulton St8 Av,Fulton_St|A_C_J_Z_2_3_4_5,C|Fulton_St|A_C_J_Z_2_3_4_5,A_C
+World Trade Center,E,M,8 Av,EWorld Trade Center8 Av,Chambers_St_WTC_Park_Place|A_C_E_2_3,E|Chambers_St_WTC_Park_Place|A_C_E_2_3,E
+Chambers St,A,M,8 Av,AChambers St8 Av,Chambers_St_WTC_Park_Place|A_C_E_2_3,A|Chambers_St_WTC_Park_Place|A_C_E_2_3,A_C
+Chambers St,C,M,8 Av,CChambers St8 Av,Chambers_St_WTC_Park_Place|A_C_E_2_3,C|Chambers_St_WTC_Park_Place|A_C_E_2_3,A_C
+West 4 St-Washington Sq,A,M,8 Av,AWest 4 St-Washington Sq8 Av,West_4_St_Washington_Sq|A_B_C_D_E_F_M,A|West_4_St_Washington_Sq|A_B_C_D_E_F_M,A_C_E
+West 4 St-Washington Sq,C,M,8 Av,CWest 4 St-Washington Sq8 Av,West_4_St_Washington_Sq|A_B_C_D_E_F_M,C|West_4_St_Washington_Sq|A_B_C_D_E_F_M,A_C_E
+West 4 St-Washington Sq,E,M,8 Av,EWest 4 St-Washington Sq8 Av,West_4_St_Washington_Sq|A_B_C_D_E_F_M,E|West_4_St_Washington_Sq|A_B_C_D_E_F_M,A_C_E
+14 St,A,M,8 Av,A14 St8 Av,14_St_8_Av|A_C_E_L,A|14_St_8_Av|A_C_E_L,A_C_E
+14 St,C,M,8 Av,C14 St8 Av,14_St_8_Av|A_C_E_L,C|14_St_8_Av|A_C_E_L,A_C_E
+14 St,E,M,8 Av,E14 St8 Av,14_St_8_Av|A_C_E_L,E|14_St_8_Av|A_C_E_L,A_C_E
+Times Square-42 St,A,M,8 Av,A42 St-Port Authority Bus Terminal8 Av,Times_Sq_42_St_42_St|N_Q_R_W_S_1_2_3_7_A_C_E,A|Times_Sq_42_St_42_St|N_Q_R_W_S_1_2_3_7_A_C_E,A_C_E
+Times Square-42 St,C,M,8 Av,C42 St-Port Authority Bus Terminal8 Av,Times_Sq_42_St_42_St|N_Q_R_W_S_1_2_3_7_A_C_E,C|Times_Sq_42_St_42_St|N_Q_R_W_S_1_2_3_7_A_C_E,A_C_E
+Times Square-42 St,E,M,8 Av,E42 St-Port Authority Bus Terminal8 Av,Times_Sq_42_St_42_St|N_Q_R_W_S_1_2_3_7_A_C_E,E|Times_Sq_42_St_42_St|N_Q_R_W_S_1_2_3_7_A_C_E,A_C_E
+Lexington Av-53 St /51 St,E,M,53 St,ELexington Av-53 St53 St,Lexington_Av_53_St_51_St|E_M_6,E|Lexington_Av_53_St_51_St|E_M_6,E_M
+Lexington Av-53 St /51 St,M,M,53 St,MLexington Av-53 St53 St,Lexington_Av_53_St_51_St|E_M_6,M|Lexington_Av_53_St_51_St|E_M_6,E_M
+59 St-Columbus Circle,A,M,8 Av/Central Pk W,A59 St-Columbus Circle8 Av/Central Pk W,59_St_Columbus_Circle|A_B_C_D_1,A|59_St_Columbus_Circle|A_B_C_D_1,A_B_C_D
+59 St-Columbus Circle,B,M,8 Av/Central Pk W,B59 St-Columbus Circle8 Av/Central Pk W,59_St_Columbus_Circle|A_B_C_D_1,B|59_St_Columbus_Circle|A_B_C_D_1,A_B_C_D
+59 St-Columbus Circle,C,M,8 Av/Central Pk W,C59 St-Columbus Circle8 Av/Central Pk W,59_St_Columbus_Circle|A_B_C_D_1,C|59_St_Columbus_Circle|A_B_C_D_1,A_B_C_D
+59 St-Columbus Circle,D,M,8 Av/Central Pk W,D59 St-Columbus Circle8 Av/Central Pk W,59_St_Columbus_Circle|A_B_C_D_1,D|59_St_Columbus_Circle|A_B_C_D_1,A_B_C_D
+168 St,A,M,Washington Heights,A168 StWashington Heights,168_St|A_C_1,A|168_St|A_C_1,A_C
+168 St,C,M,Washington Heights,C168 StWashington Heights,168_St|A_C_1,C|168_St|A_C_1,A_C
+161 St-Yankee Stadium,B,Bx,Concourse,B161 St-Yankee StadiumConcourse,161_St_Yankee_Stadium|B_D_4,B|161_St_Yankee_Stadium|B_D_4,B_D
+161 St-Yankee Stadium,D,Bx,Concourse,D161 St-Yankee StadiumConcourse,161_St_Yankee_Stadium|B_D_4,D|161_St_Yankee_Stadium|B_D_4,B_D
+Franklin Av,2,B,Eastern Pkwy,2Franklin AvEastern Pkwy,Franklin_Av_Botanic_Garden|2_3_4_5_S,2|Franklin_Av_Botanic_Garden|2_3_4_5_S,2_3_4_5
+Franklin Av,3,B,Eastern Pkwy,3Franklin AvEastern Pkwy,Franklin_Av_Botanic_Garden|2_3_4_5_S,3|Franklin_Av_Botanic_Garden|2_3_4_5_S,2_3_4_5
+Franklin Av,4,B,Eastern Pkwy,4Franklin AvEastern Pkwy,Franklin_Av_Botanic_Garden|2_3_4_5_S,4|Franklin_Av_Botanic_Garden|2_3_4_5_S,2_3_4_5
+Franklin Av,5,B,Eastern Pkwy,5Franklin AvEastern Pkwy,Franklin_Av_Botanic_Garden|2_3_4_5_S,5|Franklin_Av_Botanic_Garden|2_3_4_5_S,2_3_4_5
+Atlantic Av,2,B,Eastern Pkwy,2Atlantic AvEastern Pkwy,Atlantic_Av_Barclays_Ctr|B_D_N_Q_R_2_3_4_5,2|Atlantic_Av_Barclays_Ctr|B_D_N_Q_R_2_3_4_5,2_3_4_5
+Atlantic Av,3,B,Eastern Pkwy,3Atlantic AvEastern Pkwy,Atlantic_Av_Barclays_Ctr|B_D_N_Q_R_2_3_4_5,3|Atlantic_Av_Barclays_Ctr|B_D_N_Q_R_2_3_4_5,2_3_4_5
+Atlantic Av,4,B,Eastern Pkwy,4Atlantic AvEastern Pkwy,Atlantic_Av_Barclays_Ctr|B_D_N_Q_R_2_3_4_5,4|Atlantic_Av_Barclays_Ctr|B_D_N_Q_R_2_3_4_5,2_3_4_5
+Atlantic Av,5,B,Eastern Pkwy,5Atlantic AvEastern Pkwy,Atlantic_Av_Barclays_Ctr|B_D_N_Q_R_2_3_4_5,5|Atlantic_Av_Barclays_Ctr|B_D_N_Q_R_2_3_4_5,2_3_4_5
+Borough Hall,2,B,Eastern Pkwy,2Borough HallEastern Pkwy,Court_St_Borough_Hall|R_2_3_4_5,2|Court_St_Borough_Hall|R_2_3_4_5,2_3_4_5
+Borough Hall,3,B,Eastern Pkwy,3Borough HallEastern Pkwy,Court_St_Borough_Hall|R_2_3_4_5,3|Court_St_Borough_Hall|R_2_3_4_5,2_3_4_5
+Borough Hall,4,B,Eastern Pkwy,4Borough HallEastern Pkwy,Court_St_Borough_Hall|R_2_3_4_5,4|Court_St_Borough_Hall|R_2_3_4_5,2_3_4_5
+Borough Hall,5,B,Eastern Pkwy,5Borough HallEastern Pkwy,Court_St_Borough_Hall|R_2_3_4_5,5|Court_St_Borough_Hall|R_2_3_4_5,2_3_4_5
+4 Av /9 St,R,B,4 Av,R9 St4 Av,4_Av_9_St|F_G_R,R|4_Av_9_St|F_G_R,R
+Atlantic Av-Pacific St,D,B,4 Av,DAtlantic Av-Pacific St4 Av,Atlantic_Av_Barclays_Ctr|B_D_N_Q_R_2_3_4_5,D|Atlantic_Av_Barclays_Ctr|B_D_N_Q_R_2_3_4_5,D_N_R
+Atlantic Av-Pacific St,N,B,4 Av,NAtlantic Av-Pacific St4 Av,Atlantic_Av_Barclays_Ctr|B_D_N_Q_R_2_3_4_5,N|Atlantic_Av_Barclays_Ctr|B_D_N_Q_R_2_3_4_5,D_N_R
+Atlantic Av-Pacific St,R,B,4 Av,RAtlantic Av-Pacific St4 Av,Atlantic_Av_Barclays_Ctr|B_D_N_Q_R_2_3_4_5,R|Atlantic_Av_Barclays_Ctr|B_D_N_Q_R_2_3_4_5,D_N_R
+DeKalb Av,R,B,4 Av,RDeKalb Av4 Av,DeKalb_Av|B_Q_R,R|DeKalb_Av|B_Q_R,R
+Jay St-MetroTech,R,B,4 Av,RJay St-MetroTech4 Av,Jay_St_MetroTech|A_C_F_R,R|Jay_St_MetroTech|A_C_F_R,R
+Court St,R,B,4 Av,RCourt St4 Av,Court_St_Borough_Hall|R_2_3_4_5,R|Court_St_Borough_Hall|R_2_3_4_5,R
+Coney Island-Stillwell Av,N,B,Sea Beach,NConey Island-Stillwell AvSea Beach,Coney_Island_Stillwell_Av|D_F_N_Q,N|Coney_Island_Stillwell_Av|D_F_N_Q,N
+New Utrecht Av,N,B,Sea Beach,NNew Utrecht AvSea Beach,New_Utrecht_Av_62_St|N_D,N|New_Utrecht_Av_62_St|N_D,N
+Coney Island-Stillwell Av,D,B,West End,DConey Island-Stillwell AvWest End,Coney_Island_Stillwell_Av|D_F_N_Q,D|Coney_Island_Stillwell_Av|D_F_N_Q,D
+New Utrecht Av,D,B,West End,D62 StWest End,New_Utrecht_Av_62_St|N_D,D|New_Utrecht_Av_62_St|N_D,D
+Coney Island-Stillwell Av,Q,B,Brighton,QConey Island-Stillwell AvBrighton,Coney_Island_Stillwell_Av|D_F_N_Q,Q|Coney_Island_Stillwell_Av|D_F_N_Q,Q
+West 8 St-New York Aquarium,Q,B,Brighton,QWest 8 St-New York AquariumBrighton,West_8_St_New_York_Aquarium|F_Q,Q|West_8_St_New_York_Aquarium|F_Q,Q
+Prospect Park,B,B,Brighton,BProspect ParkBrighton,Prospect_Park|B_Q_S,B|Prospect_Park|B_Q_S,B_Q
+Prospect Park,Q,B,Brighton,QProspect ParkBrighton,Prospect_Park|B_Q_S,Q|Prospect_Park|B_Q_S,B_Q
+Atlantic Av,B,B,Brighton,BAtlantic AvBrighton,Atlantic_Av_Barclays_Ctr|B_D_N_Q_R_2_3_4_5,B|Atlantic_Av_Barclays_Ctr|B_D_N_Q_R_2_3_4_5,B_Q
+Atlantic Av,Q,B,Brighton,QAtlantic AvBrighton,Atlantic_Av_Barclays_Ctr|B_D_N_Q_R_2_3_4_5,Q|Atlantic_Av_Barclays_Ctr|B_D_N_Q_R_2_3_4_5,B_Q
+DeKalb Av,B,B,Brighton,BDeKalb AvBrighton,DeKalb_Av|B_Q_R,B|DeKalb_Av|B_Q_R,B_Q
+DeKalb Av,Q,B,Brighton,QDeKalb AvBrighton,DeKalb_Av|B_Q_R,Q|DeKalb_Av|B_Q_R,B_Q
+Prospect Park,S,B,Franklin Av,SProspect ParkFranklin Av,Prospect_Park|B_Q_S,S|Prospect_Park|B_Q_S,S
+Botanic Garden,S,B,Franklin Av,SBotanic GardenFranklin Av,Franklin_Av_Botanic_Garden|2_3_4_5_S,S|Franklin_Av_Botanic_Garden|2_3_4_5_S,S
+Franklin Av,S,B,Franklin Av,SFranklin AvFranklin Av,Franklin_Av|C_S,S|Franklin_Av|C_S,S
+Coney Island-Stillwell Av,F,B,Culver,FConey Island-Stillwell AvCulver,Coney_Island_Stillwell_Av|D_F_N_Q,F|Coney_Island_Stillwell_Av|D_F_N_Q,F
+West 8 St-New York Aquarium,F,B,Culver,FWest 8 St-New York AquariumCulver,West_8_St_New_York_Aquarium|F_Q,F|West_8_St_New_York_Aquarium|F_Q,F
+4 Av /9 St,F,B,Culver,F4 AvCulver,4_Av_9_St|F_G_R,F|4_Av_9_St|F_G_R,F_G
+4 Av /9 St,G,B,Culver,G4 AvCulver,4_Av_9_St|F_G_R,G|4_Av_9_St|F_G_R,F_G
+Jay St-MetroTech,F,B,Culver,FJay St-MetroTechCulver,Jay_St_MetroTech|A_C_F_R,F|Jay_St_MetroTech|A_C_F_R,F
+Broadway Junction,A,B,Fulton St,ABroadway JunctionFulton St,Broadway_Junction|A_C_J_L_Z,A|Broadway_Junction|A_C_J_L_Z,A_C
+Broadway Junction,C,B,Fulton St,CBroadway JunctionFulton St,Broadway_Junction|A_C_J_L_Z,C|Broadway_Junction|A_C_J_L_Z,A_C
+Franklin Av,C,B,Fulton St,CFranklin AvFulton St,Franklin_Av|C_S,C|Franklin_Av|C_S,C
+Hoyt-Schermerhorn Sts,A,B,Fulton St,AHoyt-Schermerhorn StsFulton St,Hoyt_Schermerhorn_Sts|A_C_G,A|Hoyt_Schermerhorn_Sts|A_C_G,A_C
+Hoyt-Schermerhorn Sts,C,B,Fulton St,CHoyt-Schermerhorn StsFulton St,Hoyt_Schermerhorn_Sts|A_C_G,C|Hoyt_Schermerhorn_Sts|A_C_G,A_C
+Jay St-MetroTech,A,B,Fulton St,AJay St-MetroTechFulton St,Jay_St_MetroTech|A_C_F_R,A|Jay_St_MetroTech|A_C_F_R,A_C
+Jay St-MetroTech,C,B,Fulton St,CJay St-MetroTechFulton St,Jay_St_MetroTech|A_C_F_R,C|Jay_St_MetroTech|A_C_F_R,A_C
+Hoyt-Schermerhorn Sts,G,B,Crosstown,GHoyt-Schermerhorn StsCrosstown,Hoyt_Schermerhorn_Sts|A_C_G,G|Hoyt_Schermerhorn_Sts|A_C_G,G
+Metropolitan Av,G,B,Crosstown,GMetropolitan AvCrosstown,Lorimer_St_Metropolitan_Av|L_G,G|Lorimer_St_Metropolitan_Av|L_G,G
+Court Sq,G,Q,Crosstown,GCourt SqCrosstown,Court_Sq|E_G_M_7,G|Court_Sq|E_G_M_7,G
+Court Sq,E,Q,Queens Blvd,ECourt Sq-23 StQueens Blvd,Court_Sq|E_G_M_7,E|Court_Sq|E_G_M_7,E_M
+Court Sq,M,Q,Queens Blvd,MCourt Sq-23 StQueens Blvd,Court_Sq|E_G_M_7,M|Court_Sq|E_G_M_7,E_M
+Jackson Hts-Roosevelt Av,E,Q,Queens Blvd,EJackson Hts-Roosevelt AvQueens Blvd,74_Bway_Jackson_Hts_Roosevelt_Av|7_E_F_M_R,E|74_Bway_Jackson_Hts_Roosevelt_Av|7_E_F_M_R,E_F_M_R
+Jackson Hts-Roosevelt Av,F,Q,Queens Blvd,FJackson Hts-Roosevelt AvQueens Blvd,74_Bway_Jackson_Hts_Roosevelt_Av|7_E_F_M_R,F|74_Bway_Jackson_Hts_Roosevelt_Av|7_E_F_M_R,E_F_M_R
+Jackson Hts-Roosevelt Av,M,Q,Queens Blvd,MJackson Hts-Roosevelt AvQueens Blvd,74_Bway_Jackson_Hts_Roosevelt_Av|7_E_F_M_R,M|74_Bway_Jackson_Hts_Roosevelt_Av|7_E_F_M_R,E_F_M_R
+Jackson Hts-Roosevelt Av,R,Q,Queens Blvd,RJackson Hts-Roosevelt AvQueens Blvd,74_Bway_Jackson_Hts_Roosevelt_Av|7_E_F_M_R,R|74_Bway_Jackson_Hts_Roosevelt_Av|7_E_F_M_R,E_F_M_R
+Sutphin Blvd-Archer Av-JFK Airport,E,Q,Queens Blvd,ESutphin Blvd-Archer Av-JFK AirportQueens Blvd,Sutphin_Blvd_Archer_Av_JFK_Airport|E_J_Z,E|Sutphin_Blvd_Archer_Av_JFK_Airport|E_J_Z,E
+Jamaica Center-Parsons-Archer,E,Q,Queens Blvd,EJamaica Center-Parsons-ArcherQueens Blvd,Jamaica_Center_Parsons_Archer|E_J_Z,E|Jamaica_Center_Parsons_Archer|E_J_Z,E
+Jamaica Center-Parsons-Archer,J,Q,Jamaica,JJamaica Center-Parsons-ArcherJamaica,Jamaica_Center_Parsons_Archer|E_J_Z,J|Jamaica_Center_Parsons_Archer|E_J_Z,J_Z
+Jamaica Center-Parsons-Archer,Z,Q,Jamaica,ZJamaica Center-Parsons-ArcherJamaica,Jamaica_Center_Parsons_Archer|E_J_Z,Z|Jamaica_Center_Parsons_Archer|E_J_Z,J_Z
+Sutphin Blvd-Archer Av-JFK Airport,J,Q,Jamaica,JSutphin Blvd-Archer Av-JFK AirportJamaica,Sutphin_Blvd_Archer_Av_JFK_Airport|E_J_Z,J|Sutphin_Blvd_Archer_Av_JFK_Airport|E_J_Z,J_Z
+Sutphin Blvd-Archer Av-JFK Airport,Z,Q,Jamaica,ZSutphin Blvd-Archer Av-JFK AirportJamaica,Sutphin_Blvd_Archer_Av_JFK_Airport|E_J_Z,Z|Sutphin_Blvd_Archer_Av_JFK_Airport|E_J_Z,J_Z
+Broadway Junction,J,B,Jamaica,JBroadway JunctionJamaica,Broadway_Junction|A_C_J_L_Z,J|Broadway_Junction|A_C_J_L_Z,J_Z
+Broadway Junction,Z,B,Jamaica,ZBroadway JunctionJamaica,Broadway_Junction|A_C_J_L_Z,Z|Broadway_Junction|A_C_J_L_Z,J_Z
+Myrtle-Wyckoff Avs,M,B,Myrtle Av,MMyrtle-Wyckoff AvsMyrtle Av,Myrtle_Wyckoff_Avs|L_M,M|Myrtle_Wyckoff_Avs|L_M,M
+Broadway Junction,L,B,Canarsie,LBroadway JunctionCanarsie,Broadway_Junction|A_C_J_L_Z,L|Broadway_Junction|A_C_J_L_Z,L
+Myrtle-Wyckoff Avs,L,B,Canarsie,LMyrtle-Wyckoff AvsCanarsie,Myrtle_Wyckoff_Avs|L_M,L|Myrtle_Wyckoff_Avs|L_M,L
+Lorimer St,L,B,Canarsie,LLorimer StCanarsie,Lorimer_St_Metropolitan_Av|L_G,L|Lorimer_St_Metropolitan_Av|L_G,L
+74 St-Broadway,7,Q,Flushing (Queens),774 St-BroadwayFlushing (Queens),74_Bway_Jackson_Hts_Roosevelt_Av|7_E_F_M_R,7|74_Bway_Jackson_Hts_Roosevelt_Av|7_E_F_M_R,7
+Queensboro Plaza,7,Q,Flushing (Queens),7Queensboro PlazaFlushing (Queens),Queensboro_Plaza|N_W_7,7|Queensboro_Plaza|N_W_7,7
+Court Sq,7,Q,Flushing (Queens),7Court SqFlushing (Queens),Court_Sq|E_G_M_7,7|Court_Sq|E_G_M_7,7
+Queensboro Plaza,N,Q,Astoria,NQueensboro PlazaAstoria,Queensboro_Plaza|N_W_7,N|Queensboro_Plaza|N_W_7,N_Q
+Queensboro Plaza,Q,Q,Astoria,QQueensboro PlazaAstoria,Queensboro_Plaza|N_W_7,Q|Queensboro_Plaza|N_W_7,N_Q
