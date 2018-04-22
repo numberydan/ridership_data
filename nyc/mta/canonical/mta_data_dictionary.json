@@ -1,0 +1,30 @@
+{
+	"mta_subway_ridership_1960_2016": {
+		"description": "Watch out for 1997 to 1998 numbers there is a series break here driven by 1) Fiscal vs Calendar year and there for a missing 6 months in 1997 to 1998 changes. 2) No station level student ridership adjustment pre 1998 (this means less riders reported and therefore apprently RIDICULOUS growth at stations with high numbers of student riders.",
+		"columns": {
+			"all_consistent_ridership": "some text",
+			"annual_ridership": "ridership as reported",
+			"annual_ridership_student_adj": "will only be populated for pre 1998 data - here I allocate the system wide student adjustment to stations based on their non-student share",
+			"borough": ["M", "Bx", "B", "Q"],
+			"date": "will correspond to the actual ending timestamp of the period measured",
+			"date_standardized": "always the last day of the year",
+			"fiscal_year": "will be empty of the data represents a calendar year",
+			"full_station_name": "station name including lines stopping there",
+			"line": "what lines ridership is represented by this row",
+			"line_designators": "all the lines that stop at this station as an array",
+			"line_designators_str": "all the lines that stop at this station as a string",
+			"segment": "segment",
+			"standardized_annual_ridership": "here I took the fiscal year data upsampled it to monthly, took a 12 month moving average and then took the December value. This will very crudely (it accounts for trend but not seasonality) reample the data to calendar year basis, however it will lower the implied volaility. I also fill in the 1997 to 1998 gap by  interpolating for the missing 6 months. I'd be pretty reticent to use this for much.",
+			"standardized_yoy": "this is the yoy growth as reported with one adjustment - the 1997 to 1998 number uses the growth in the standardized_annual_ridership number, this will be MUCH closer to something reasonable, with the caveat that the student ridership issue will still severely mess up stations that have a lot of student riders - the Fulton G, the Columbia, City College and Brooklyn College stations just to name a few",
+			"station_key": "station name | lines stopping here",
+			"station_key_split": "particular line | station name | lines stopping here, this is a unique key for the ridership represented based on the website data formating. It is the sister column to unique_key which is derived from the 1960 to 1997 data as line+station+segement",
+			"station_name": "The station name",
+			"student_to_total": "ratio for that year of the reported and student adjusted system wide number",
+			"transfer_segment": "In the original data for a given station that is a transfer station, this station was left out from the segements numbers and then reported grouped as Transfer Segments, ie Downtown Brooklyn, etc, however I hated this format becuase you cant actually view a line as a object then. This columns will tell you where the data for this row was pulled - ie that the Franklin Av C station data comes from the Other Brooklyn Transfer Segment. If you want to exclude transfer stations from any analysis of a segment, just drop rows where transfer segment is not null",
+			"transfer_station_name": "In the original data for a given station that is a transfer station, this station was left out from the segements numbers and then reported grouped as Transfer Segments, ie Downtown Brooklyn, etc, however I hated this format becuase you cant actually view a line as a object then. This columns will tell you where the data for this row was pulled - ie that the Franklin Av C station data comes from the Other Brooklyn Transfer Segment. If you want to exclude transfer stations from any analysis of a segment, just drop rows where transfer station is not null",
+			"unique_key": "line+station+segement, this is a unique key for the ridership represented based on the 1960 to 1997 data formating. It is the sister column to station_key_split derived as particular line | station name | lines stopping here from the 1998 forward data",
+			"year": "will be empty of the data represents a fiscal year",
+			"annual_ridership_best": "this is my current 'best' guess at stationridership. It uses the annual_ridership_student_adj numbers until 1997 and then the calendar year MetroCard based data after that. Be VERY careful with comparing numbers that cross the 1997 line as there is a serious discontinuity in the data here"
+		}
+	}
+}
