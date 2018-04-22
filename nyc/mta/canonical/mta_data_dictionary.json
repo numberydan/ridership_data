@@ -2,7 +2,7 @@
 	"mta_subway_ridership_1960_2016": {
 		"description": "Watch out for 1997 to 1998 numbers there is a series break here driven by 1) Fiscal vs Calendar year and there for a missing 6 months in 1997 to 1998 changes. 2) No station level student ridership adjustment pre 1998 (this means less riders reported and therefore apprently RIDICULOUS growth at stations with high numbers of student riders.",
 		"columns": {
-			"all_consistent_ridership": "some text",
+			"all_consistent_ridership": "This uses standardized_annual_ridership until I have calendar year data. See the standardized_annual_ridership description. Be very careful using this as in that description",
 			"annual_ridership": "ridership as reported",
 			"annual_ridership_student_adj": "will only be populated for pre 1998 data - here I allocate the system wide student adjustment to stations based on their non-student share",
 			"borough": ["M", "Bx", "B", "Q"],
